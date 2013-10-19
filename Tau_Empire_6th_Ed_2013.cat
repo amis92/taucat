@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="3c888d8a-9391-6ae0-9af3-c2d7587098c2" revision="16" gameSystemId="3d1a4963-0629-4025-a90b-76ab3d63c5c5" gameSystemRevision="1" battleScribeVersion="1.13b" name="Tau Empire 6th Ed (2013)" authorName="Amadeusz Sadowski" authorContact="amis.tau.92@gmail.com" authorUrl="http://taucatalogue.blogspot.com/" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="ec1815bd-6777-19db-ef11-022f7d4aff2f" revision="3" gameSystemId="3d1a4963-0629-4025-a90b-76ab3d63c5c5" gameSystemRevision="1" battleScribeVersion="1.13b" name="Tau Empire: Farsight Enclaves (2013)" authorName="Amadeusz Sadowski" authorContact="amis.tau.92@gmail.com" authorUrl="http://taucatalogue.blogspot.com/" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="fb367433-58d4-8e73-798d-a739f074020a" name="Air Superiority Wing" points="0.0" categoryId="eead7129-69d4-bd07-8f3e-fb184f609e09" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Apocalypse" page="0">
       <entries>
@@ -208,7 +208,7 @@
                 </link>
               </links>
             </entry>
-            <entry id="3a9ec9bb-80ae-279c-9609-d9b80250805f" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+            <entry id="3a9ec9bb-80ae-279c-9609-d9b80250805f" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -627,6 +627,9 @@
                 </modifier>
               </modifiers>
             </link>
+            <link id="8aae7945-35a0-275d-e623-858d081ab3ca" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+              <modifiers/>
+            </link>
           </links>
         </entry>
         <entry id="28578178-ac1b-edaf-152b-5384141739af" name="Fire Warrior Team" points="0.0" categoryId="54726f6f707323232344415441232323" type="unit" minSelections="2" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="99">
@@ -660,7 +663,7 @@
                 </link>
               </links>
             </entry>
-            <entry id="60924dcf-87d6-83b6-c896-a43eb4f71865" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+            <entry id="60924dcf-87d6-83b6-c896-a43eb4f71865" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -879,6 +882,9 @@
                   <conditionGroups/>
                 </modifier>
               </modifiers>
+            </link>
+            <link id="70e70ad5-ed64-a839-7bb0-adc63dec6fe1" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+              <modifiers/>
             </link>
           </links>
         </entry>
@@ -1195,6 +1201,9 @@
                 </modifier>
               </modifiers>
             </link>
+            <link id="e492023d-3254-f076-c117-4ade21187093" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+              <modifiers/>
+            </link>
           </links>
         </entry>
       </entries>
@@ -1239,6 +1248,9 @@
               <modifiers/>
             </link>
             <link id="8b07aef2-d372-50f6-4ce4-bbaf930637af" targetId="68a7cc13-33b8-b179-e13d-d354c4172b1a" linkType="entry">
+              <modifiers/>
+            </link>
+            <link id="0047bae5-8d5b-5d36-eec7-542bb54bd900" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
               <modifiers/>
             </link>
           </links>
@@ -1430,7 +1442,7 @@
       <entries>
         <entry id="34ceb931-519b-7022-9084-474df991789a" name="Stealth Team" points="0.0" categoryId="456c6974657323232344415441232323" type="unit" minSelections="3" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="100">
           <entries>
-            <entry id="66b643fe-8f98-784a-4ef7-5c5476f9433d" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+            <entry id="66b643fe-8f98-784a-4ef7-5c5476f9433d" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1673,6 +1685,9 @@
                 </modifier>
               </modifiers>
             </link>
+            <link id="817a3e1d-fef4-6162-1d9b-f485cc0a683a" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+              <modifiers/>
+            </link>
           </links>
         </entry>
       </entries>
@@ -1827,7 +1842,7 @@
       <entries>
         <entry id="833c2692-6690-57ae-51a4-f2370bbc8b81" name="Stealth Team" points="0.0" categoryId="456c6974657323232344415441232323" type="unit" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="100">
           <entries>
-            <entry id="82f5480c-277a-4fc9-d016-0d79892dbd57" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+            <entry id="82f5480c-277a-4fc9-d016-0d79892dbd57" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -2069,6 +2084,9 @@
                   <conditionGroups/>
                 </modifier>
               </modifiers>
+            </link>
+            <link id="9861aff7-afd9-54a2-b450-83fd8991e985" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+              <modifiers/>
             </link>
           </links>
         </entry>
@@ -2328,11 +2346,14 @@
             <link id="3f546678-5d2d-8cfe-bc19-b2f05ea8c413" targetId="3fce38be-118d-9c1e-4a1a-32afbf9d9f96" linkType="rule">
               <modifiers/>
             </link>
+            <link id="41cd82ff-79e1-9187-425f-e01e90c5667f" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+              <modifiers/>
+            </link>
           </links>
         </entry>
         <entry id="27f899f5-62a0-b603-7dc5-2d5de2b6ae83" name="XV8 Crisis Team" points="0.0" categoryId="456c6974657323232344415441232323" type="unit" minSelections="3" maxSelections="5" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="100">
           <entries>
-            <entry id="e18858e9-21ef-c5be-f59d-0aba29751be5" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+            <entry id="e18858e9-21ef-c5be-f59d-0aba29751be5" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -2761,6 +2782,9 @@
             <link id="e1d19663-3613-7505-fa26-9fc79540823b" targetId="5a03ff44-727c-e381-47ca-05f5a44d9c4a" linkType="rule">
               <modifiers/>
             </link>
+            <link id="faabef88-b0bd-5085-2397-245c374c9e0c" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+              <modifiers/>
+            </link>
           </links>
         </entry>
       </entries>
@@ -3031,6 +3055,9 @@
               <modifiers/>
             </link>
             <link id="8333aa36-dbf6-9b67-1782-933c566fab55" targetId="3fce38be-118d-9c1e-4a1a-32afbf9d9f96" linkType="rule">
+              <modifiers/>
+            </link>
+            <link id="a4b1a2df-6e1a-58e2-3a8d-61231a526cfd" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
               <modifiers/>
             </link>
           </links>
@@ -3476,6 +3503,449 @@
       <profiles/>
       <links/>
     </entry>
+    <entry id="96ec6b83-e9d2-8ce5-babf-8522b6b7a0aa" name="XV8 Crisis Team (compulsory)" points="0.0" categoryId="54726f6f707323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="1" maxInRoster="1" collective="false" book="Codex: Tau Empire" page="100">
+      <entries>
+        <entry id="da587966-4478-b691-9aec-abd2dc4e3171" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers>
+            <modifier type="increment" field="points" value="1.0" repeat="true" numRepeats="1" incrementParentId="96ec6b83-e9d2-8ce5-babf-8522b6b7a0aa" incrementChildId="cf2d6466-cbb3-c14b-43cc-c44adbd17996" incrementField="selections" incrementValue="1.0">
+              <conditions/>
+              <conditionGroups/>
+            </modifier>
+          </modifiers>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="9d04fe94-c485-bf4e-cec2-cb9cfb5db0f7" targetId="706ac166-91de-9abc-d577-efab540d20fc" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups>
+        <entryGroup id="cf2d6466-cbb3-c14b-43cc-c44adbd17996" name="Members - 3" defaultEntryId="1ac3be16-bb00-966e-4f0f-e87b3e22b91e" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+          <entries>
+            <entry id="1ac3be16-bb00-966e-4f0f-e87b3e22b91e" name="Crisis Shas&apos;ui" points="22.0" categoryId="(No Category)" type="model" minSelections="3" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups>
+                <entryGroup id="0fcad0f1-432c-f1aa-43a0-1a18fa13a268" name="Wargear - max 3" minSelections="0" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+                  <entries/>
+                  <entryGroups>
+                    <entryGroup id="29bf1d8b-1e3d-8953-024f-07c5a676cfe9" name="Ranged Weapons" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+                      <entries>
+                        <entry id="2df669f0-b1ff-d267-0244-0b4f49ea5741" name="Flamer" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="63004cd3-1b88-cced-52a5-292594a40dce" targetId="fb32f9a8-c522-f9b5-b2f0-4af2080c1d09" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                        <entry id="210a39c6-23bb-6139-1533-b0c3232a7e40" name="Burst cannon" points="10.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="3b418e68-9cc5-ce4c-f1ef-fe294a180f28" targetId="098adddb-eedc-e062-e858-2e34ca7a7ef6" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                        <entry id="c2332096-a8a7-a918-03bd-dc4ceae4da8d" name="Missile pod" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="9f30cda1-68af-ecdf-be04-0886d19cb67c" targetId="428e5b42-e515-7ea7-fb87-13459a889761" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                        <entry id="88ae8a7d-9601-9c7c-4b51-57091babee9a" name="Fusion blaster" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="cfaa74f3-8316-74b9-e4f7-f85227972eb7" targetId="be4d6cdc-18e5-ab45-24b7-e15ed5ceddb9" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                        <entry id="860b65d4-063d-2f9e-a3b4-5f9a8dcb1e5f" name="Plasma rifle" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="7e02842b-cd20-d8c8-4953-4a49a24f2d6e" targetId="bcd3b1af-602d-8fc9-2e66-00203766d6ca" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                      </entries>
+                      <entryGroups>
+                        <entryGroup id="a26d5970-9944-b2b6-8349-6866ff93119e" name="Twin-linked" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+                          <entries>
+                            <entry id="283be6b8-e58b-2d1e-265e-260b9a28751e" name="Twin-linked plasma rifle" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="18c93ae5-74b6-6c3e-e34a-15d7dd8d5620" targetId="bcd3b1af-602d-8fc9-2e66-00203766d6ca" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                            <entry id="b54a09df-48e8-e12c-f45a-7c5d51e5976d" name="Twin-linked missile pod" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="3325c4c0-8429-732e-440e-7c9b4ac341f7" targetId="428e5b42-e515-7ea7-fb87-13459a889761" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                            <entry id="5159b308-b1e3-ba04-8cc0-65671ee6f769" name="Twin-linked fusion blaster" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="46dc8ccd-f96a-c940-f144-9fe468fd15bc" targetId="be4d6cdc-18e5-ab45-24b7-e15ed5ceddb9" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                            <entry id="8a0115f0-b97a-0c96-8e87-bef5d16a0bc8" name="Twin-linked flamer" points="10.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="f0d73a50-0cbb-b52d-8637-2fabe1015ed3" targetId="fb32f9a8-c522-f9b5-b2f0-4af2080c1d09" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                            <entry id="aa8e2af7-b743-37f4-025e-0ab95ccee128" name="Twin-linked burst cannon" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="91d6fc4f-fd16-5cf1-b20b-86e8aad499a6" targetId="098adddb-eedc-e062-e858-2e34ca7a7ef6" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                          </entries>
+                          <entryGroups/>
+                          <modifiers/>
+                          <links/>
+                        </entryGroup>
+                      </entryGroups>
+                      <modifiers/>
+                      <links>
+                        <link id="58404555-e1ab-5f92-3eee-8c87bfcedc51" targetId="482a8694-d2f6-06ee-3d8d-822c3266f86d" linkType="entry">
+                          <modifiers/>
+                        </link>
+                        <link id="0aa73fc8-506a-a004-3bff-e9dd15f613e7" targetId="84f874c4-a150-2ddf-b5d6-714b716d93b0" linkType="entry">
+                          <modifiers/>
+                        </link>
+                      </links>
+                    </entryGroup>
+                  </entryGroups>
+                  <modifiers>
+                    <modifier type="decrement" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="0fcad0f1-432c-f1aa-43a0-1a18fa13a268" incrementChildId="a26d5970-9944-b2b6-8349-6866ff93119e" incrementField="selections" incrementValue="1.0">
+                      <conditions/>
+                      <conditionGroups/>
+                    </modifier>
+                  </modifiers>
+                  <links>
+                    <link id="6e88e95f-ae33-6581-0d1b-a89a2cc3bc70" targetId="3a9d6002-97df-b6db-4482-ea524e8001fc" linkType="entry group">
+                      <modifiers/>
+                    </link>
+                  </links>
+                </entryGroup>
+              </entryGroups>
+              <modifiers>
+                <modifier type="decrement" field="minSelections" value="1.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                  <conditions>
+                    <condition parentId="cf2d6466-cbb3-c14b-43cc-c44adbd17996" childId="b0de3a93-dc08-f304-d944-a7bfb52f2167" field="selections" type="equal to" value="1.0"/>
+                  </conditions>
+                  <conditionGroups/>
+                </modifier>
+              </modifiers>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="b86ea5f7-53dc-31a1-47ab-044d11ab0ed1" targetId="6081071c-e441-36bd-85ff-5048c88bbc46" linkType="entry">
+                  <modifiers/>
+                </link>
+                <link id="1b4ae2c7-71b5-24b3-0c43-81cf71e5dd5d" targetId="3ff4d940-d161-d7c8-5a52-69719e047206" linkType="profile">
+                  <modifiers>
+                    <modifier type="append" field="5361766523232344415441232323" value="/4++" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                      <conditions>
+                        <condition parentId="1ac3be16-bb00-966e-4f0f-e87b3e22b91e" childId="f60502dd-617d-03e1-a946-b98f47b7197f" field="selections" type="equal to" value="1.0"/>
+                      </conditions>
+                      <conditionGroups/>
+                    </modifier>
+                  </modifiers>
+                </link>
+              </links>
+            </entry>
+            <entry id="b0de3a93-dc08-f304-d944-a7bfb52f2167" name="Crisis Shas&apos;vre" points="32.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups>
+                <entryGroup id="3b1a9adc-409e-eb3b-567f-d7e8a18bb9d7" name="Wargear - max 3" minSelections="0" maxSelections="3" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+                  <entries/>
+                  <entryGroups>
+                    <entryGroup id="3e7eea11-4540-8da7-99d7-c9bf0802dab6" name="Ranged Weapons" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+                      <entries>
+                        <entry id="f580aec6-0f35-348e-64e2-25cbfa68adc6" name="Flamer" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="9ce837e1-b3cc-4d85-db8b-c21e0a1da411" targetId="fb32f9a8-c522-f9b5-b2f0-4af2080c1d09" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                        <entry id="9937c5ce-11d5-a3bd-33b7-ffc30fcff87b" name="Burst cannon" points="10.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="f50734b0-942b-3b59-dde3-c931fc3ce354" targetId="098adddb-eedc-e062-e858-2e34ca7a7ef6" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                        <entry id="b86ca794-5d2f-3dbd-a6c7-b1bf31f2feec" name="Missile pod" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="9957b4a5-5b51-76e0-51fa-b611e8155d22" targetId="428e5b42-e515-7ea7-fb87-13459a889761" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                        <entry id="84fb9259-c68b-e3a1-2d92-1d90161fcdfa" name="Fusion blaster" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="822ac5a8-86e9-d115-1ec7-fcda68a0d729" targetId="be4d6cdc-18e5-ab45-24b7-e15ed5ceddb9" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                        <entry id="6cb8d138-0407-0cdd-a795-d92fbf04dcae" name="Plasma rifle" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                          <entries/>
+                          <entryGroups/>
+                          <modifiers/>
+                          <rules/>
+                          <profiles/>
+                          <links>
+                            <link id="09e06597-dd95-a675-655c-ecedb251fa5e" targetId="bcd3b1af-602d-8fc9-2e66-00203766d6ca" linkType="profile">
+                              <modifiers/>
+                            </link>
+                          </links>
+                        </entry>
+                      </entries>
+                      <entryGroups>
+                        <entryGroup id="f5a39268-0cd8-c187-8885-8cf8a4ec0e79" name="Twin-linked" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+                          <entries>
+                            <entry id="e92e7893-ef2d-f93c-c522-2f31db5a753d" name="Twin-linked plasma rifle" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="da34fd7c-b988-d491-3c92-91e91e02f574" targetId="bcd3b1af-602d-8fc9-2e66-00203766d6ca" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                            <entry id="735aff33-d4fd-cba7-e01f-845063ed5e0b" name="Twin-linked missile pod" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="659189a5-a439-5e12-cca6-cfe7068c54a0" targetId="428e5b42-e515-7ea7-fb87-13459a889761" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                            <entry id="127d8ccf-320a-ba32-1f34-c2f6fe78d516" name="Twin-linked fusion blaster" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="0fd593ef-48e0-757e-c2a7-dbfaa933e227" targetId="be4d6cdc-18e5-ab45-24b7-e15ed5ceddb9" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                            <entry id="03c3fdb8-734e-d5db-b658-161897eae6f4" name="Twin-linked flamer" points="10.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="5a4b3582-658c-2beb-4db4-568fe73a499b" targetId="fb32f9a8-c522-f9b5-b2f0-4af2080c1d09" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                            <entry id="53a86d7d-4ff9-be60-e8e1-7b2b9feeaec3" name="Twin-linked burst cannon" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+                              <entries/>
+                              <entryGroups/>
+                              <modifiers/>
+                              <rules/>
+                              <profiles/>
+                              <links>
+                                <link id="ebb159e3-9aa0-c64e-a664-89b6a0c56e35" targetId="098adddb-eedc-e062-e858-2e34ca7a7ef6" linkType="profile">
+                                  <modifiers/>
+                                </link>
+                              </links>
+                            </entry>
+                          </entries>
+                          <entryGroups/>
+                          <modifiers/>
+                          <links/>
+                        </entryGroup>
+                      </entryGroups>
+                      <modifiers>
+                        <modifier type="set" field="maxSelections" value="2.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                          <conditions>
+                            <condition parentId="3b1a9adc-409e-eb3b-567f-d7e8a18bb9d7" childId="20f713a8-3580-84e3-8ca9-b083792e8aba" field="selections" type="equal to" value="1.0"/>
+                          </conditions>
+                          <conditionGroups/>
+                        </modifier>
+                      </modifiers>
+                      <links>
+                        <link id="1a3c6d29-89b3-fc7e-8dbd-806a912fb869" targetId="482a8694-d2f6-06ee-3d8d-822c3266f86d" linkType="entry">
+                          <modifiers/>
+                        </link>
+                        <link id="ec791533-4b16-37bd-b30c-47645d14ed19" targetId="84f874c4-a150-2ddf-b5d6-714b716d93b0" linkType="entry">
+                          <modifiers/>
+                        </link>
+                      </links>
+                    </entryGroup>
+                  </entryGroups>
+                  <modifiers>
+                    <modifier type="decrement" field="maxSelections" value="1.0" repeat="true" numRepeats="1" incrementParentId="3b1a9adc-409e-eb3b-567f-d7e8a18bb9d7" incrementChildId="f5a39268-0cd8-c187-8885-8cf8a4ec0e79" incrementField="selections" incrementValue="1.0">
+                      <conditions/>
+                      <conditionGroups/>
+                    </modifier>
+                  </modifiers>
+                  <links>
+                    <link id="f7607984-ecd8-9c32-d3b4-4314b993a2d4" targetId="3a9d6002-97df-b6db-4482-ea524e8001fc" linkType="entry group">
+                      <modifiers/>
+                    </link>
+                    <link id="a3063a6f-bcbe-dbae-ebfa-07b232c7df91" targetId="4f5974a9-f510-3847-0ce9-2288e3c771e2" linkType="entry group">
+                      <modifiers/>
+                    </link>
+                  </links>
+                </entryGroup>
+              </entryGroups>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="cf08b14f-90bc-06fc-45a9-adad4283023c" targetId="22459561-e6b7-47d6-2b3b-fc54b8fe2445" linkType="profile">
+                  <modifiers>
+                    <modifier type="set" field="5361766523232344415441232323" value="2+" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                      <conditions>
+                        <condition parentId="b0de3a93-dc08-f304-d944-a7bfb52f2167" childId="20f713a8-3580-84e3-8ca9-b083792e8aba" field="selections" type="equal to" value="1.0"/>
+                      </conditions>
+                      <conditionGroups/>
+                    </modifier>
+                    <modifier type="increment" field="5423232344415441232323" value="1" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                      <conditions>
+                        <condition parentId="b0de3a93-dc08-f304-d944-a7bfb52f2167" childId="20f713a8-3580-84e3-8ca9-b083792e8aba" field="selections" type="equal to" value="1.0"/>
+                      </conditions>
+                      <conditionGroups/>
+                    </modifier>
+                    <modifier type="append" field="5361766523232344415441232323" value="/4++" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                      <conditions>
+                        <condition parentId="b0de3a93-dc08-f304-d944-a7bfb52f2167" childId="f60502dd-617d-03e1-a946-b98f47b7197f" field="selections" type="equal to" value="1.0"/>
+                      </conditions>
+                      <conditionGroups/>
+                    </modifier>
+                  </modifiers>
+                </link>
+                <link id="4feb31b1-787e-7038-7fb4-471ff01bdd4f" targetId="6081071c-e441-36bd-85ff-5048c88bbc46" linkType="entry">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+      </entryGroups>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="c57ccb8b-57e8-1e1a-0ed9-f63d7922825f" targetId="c1a5be84-e87a-62c0-e29b-b6af21ae0d8f" linkType="entry group">
+          <modifiers>
+            <modifier type="increment" field="maxSelections" value="2.0" repeat="true" numRepeats="1" incrementParentId="96ec6b83-e9d2-8ce5-babf-8522b6b7a0aa" incrementChildId="cf2d6466-cbb3-c14b-43cc-c44adbd17996" incrementField="selections" incrementValue="1.0">
+              <conditions/>
+              <conditionGroups/>
+            </modifier>
+          </modifiers>
+        </link>
+        <link id="4a320e6e-ea94-5050-b73e-24cb832d3eaf" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="7b924db5-b05b-94ca-7f1b-5c8e569448c4" targetId="5a03ff44-727c-e381-47ca-05f5a44d9c4a" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="5b92e5b8-42d2-ee0f-9a54-40bda2369ef5" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
   </entries>
   <rules>
     <rule id="6135c936-2580-cc18-495b-4d0d526486ee" name="About author" hidden="true" page="0">
@@ -3485,9 +3955,6 @@ I play Tau and love all the Forge World models, contact me if something would ne
     </rule>
   </rules>
   <links>
-    <link id="5d8ca185-ab0c-dc2a-2c3b-13b12a7157d2" targetId="c37adcc6-69a3-4281-be3b-afc70cbafa52" linkType="entry" categoryId="485123232344415441232323">
-      <modifiers/>
-    </link>
     <link id="3ecabe91-1959-b49c-df4e-de0f0a9ffe0d" targetId="38156693-0c4e-0842-75c0-1029e1429221" linkType="entry" categoryId="466173742041747461636b23232344415441232323">
       <modifiers/>
     </link>
@@ -3498,9 +3965,6 @@ I play Tau and love all the Forge World models, contact me if something would ne
       <modifiers/>
     </link>
     <link id="f497d366-3eca-1932-4c75-b761539fafda" targetId="f76ebd89-ec8b-2586-182e-9bd08675426b" linkType="entry" categoryId="485123232344415441232323">
-      <modifiers/>
-    </link>
-    <link id="7f3ea842-4a2e-403f-b2af-be1d1c9bff3a" targetId="c82e082e-b355-47ec-8438-9ffe255d4f20" linkType="entry" categoryId="485123232344415441232323">
       <modifiers/>
     </link>
     <link id="bf0af5c4-375d-dfc6-667a-7e99147e4ea4" targetId="0da554fb-3d60-ab13-10d1-d88443a25d0d" linkType="entry" categoryId="485123232344415441232323">
@@ -3578,7 +4042,7 @@ I play Tau and love all the Forge World models, contact me if something would ne
     <link id="2d53f0a3-9f3d-b9a8-7273-345f4c2878ec" targetId="01578968-6d8c-473b-90b9-25e21b08797b" linkType="entry" categoryId="466173742041747461636b23232344415441232323">
       <modifiers/>
     </link>
-    <link id="b5c2b113-99a9-8bfb-42fe-b7905eb13f18" targetId="f0fbbf26-a0db-4f38-8a3b-fd549232910e" linkType="entry" categoryId="456c6974657323232344415441232323">
+    <link id="b5c2b113-99a9-8bfb-42fe-b7905eb13f18" targetId="f0fbbf26-a0db-4f38-8a3b-fd549232910e" linkType="entry" categoryId="54726f6f707323232344415441232323">
       <modifiers/>
     </link>
     <link id="0637fbeb-d2e4-64b8-8e07-db1bb0102e9e" targetId="bfd56338-fe82-4182-9e79-ca579c29e949" linkType="entry" categoryId="486561767920537570706f727423232344415441232323">
@@ -3609,6 +4073,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
       <modifiers/>
     </link>
     <link id="227a77c0-6305-892b-5965-1ae374cf6427" targetId="5b84d7be-d9ac-0795-54b8-9fa60a2c4da6" linkType="entry" categoryId="(No Category)">
+      <modifiers/>
+    </link>
+    <link id="80d0c7f6-4deb-80d3-199e-0e2fcfc6ebf0" targetId="cf960e9c-eb7f-67e6-569a-56e604f0ce23" linkType="entry" categoryId="(No Category)">
       <modifiers/>
     </link>
   </links>
@@ -3702,6 +4169,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
           <modifiers/>
         </link>
         <link id="f197eb4a-3c47-bc8b-25f0-924d227eecbf" targetId="d97e327f-efbf-647a-5f5e-15cd4ae6b179" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="d69b48b4-2262-8697-aca8-51b9e69fc601" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -3963,6 +4433,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
         <link id="d4263f1c-9e41-5120-fab8-fb30e4840814" targetId="c96925a7-06d9-cb03-1cbb-3022890c0ce9" linkType="entry group">
           <modifiers/>
         </link>
+        <link id="d4161e17-768f-664f-a877-085ea2f7330b" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="50353450-f73e-2d31-3e02-dee56bbb12fe" name="Command and Control Node" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" page="0">
@@ -4194,7 +4667,415 @@ I play Tau and love all the Forge World models, contact me if something would ne
         <link id="152d0df8-cd46-f23b-43ef-f59aeaece794" targetId="c96925a7-06d9-cb03-1cbb-3022890c0ce9" linkType="entry group">
           <modifiers/>
         </link>
-        <link id="573905cc-4b32-b542-68f7-77df24658cd0" targetId="c1713f32-bd87-f78c-2f93-7726c145097f" linkType="entry group">
+        <link id="573905cc-4b32-b542-68f7-77df24658cd0" targetId="4f5974a9-f510-3847-0ce9-2288e3c771e2" linkType="entry group">
+          <modifiers/>
+        </link>
+        <link id="729c9ccb-3c4a-9d0f-769c-5b03777b5fe3" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="1526f166-eb9d-0e64-b730-7a7b7d9c561b" name="Commander Arra&apos;kon" points="169.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="88">
+      <entries>
+        <entry id="0579cc0a-2bb1-2e3a-1dda-cce0edb5c3f5" name="Plasma rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="9cc81a5b-ca7a-ce54-4482-8474244858c1" targetId="bcd3b1af-602d-8fc9-2e66-00203766d6ca" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="1bec46e1-b8d1-0ed3-d0eb-37bb6a557a8d" name="Gun Drone" points="0.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries>
+            <entry id="a1d4b7d8-ef18-5387-31c3-ea672c4174ac" name="Twin-linked pulse carbine" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="9e67fb49-2fc8-390f-e7d2-1c99f6ab0ec5" targetId="cbb0da66-186b-a0ad-d442-e6337658b410" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="fe25dbfc-6f3c-82aa-370a-39a6896bc36d" targetId="c45edd04-fbed-9960-761b-57d0efa228a8" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="4929dc38-9964-7ac3-2133-ad40f8eebf79" name="Repulsor Impact Field" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="24783de5-9f72-f9eb-df68-2803a9dfd3fb" targetId="134a33be-2a4d-1247-0ae3-ab9682acfa0d" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="9477d19b-40c8-2132-53d5-627734ebc636" name="Counterfire defence system" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="57544cb3-32bb-4901-40ea-feaf296506ed" targetId="eb30f158-03f8-5093-af21-7ffea4b7d1a1" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="7555d7ae-74c8-b24e-57c3-98bf599849fa" name="Cyclic ion blaster" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="e0a2b4ff-1379-b9ea-547e-3b607ca6fdca" targetId="7e1cdfbd-3b3a-6b2f-a26e-6b4a5fdf723b" linkType="profile">
+              <modifiers/>
+            </link>
+            <link id="b03a4a39-8c62-ba2d-e74c-dc0ccfd63464" targetId="f862e2bb-45d3-4fcd-e44f-47e1e5bbced1" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="521db07f-ebe4-6f96-ee88-a3d7c91641e5" name="Airbursting fragmentation projector" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="b979722f-21a0-ffe6-86e1-585f19bc7706" targetId="14c5ebde-2d2c-bd44-97aa-93cf9770cd73" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="0ed13db4-02ff-f2bd-2dff-bd3dae6bec5b" profileTypeId="556e697423232344415441232323" name="Commander Arra&apos;kon" hidden="false" book="Farsight Enclaves" page="88">
+          <characteristics>
+            <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Jet Pack Infantry (Character)"/>
+            <characteristic characteristicId="575323232344415441232323" name="WS" value="4"/>
+            <characteristic characteristicId="425323232344415441232323" name="BS" value="5"/>
+            <characteristic characteristicId="5323232344415441232323" name="S" value="5"/>
+            <characteristic characteristicId="5423232344415441232323" name="T" value="4"/>
+            <characteristic characteristicId="5723232344415441232323" name="W" value="4"/>
+            <characteristic characteristicId="4923232344415441232323" name="I" value="3"/>
+            <characteristic characteristicId="4123232344415441232323" name="A" value="4"/>
+            <characteristic characteristicId="4c4423232344415441232323" name="LD" value="10"/>
+            <characteristic characteristicId="5361766523232344415441232323" name="Save" value="3+"/>
+            <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="2e3468f8-e092-386c-56ac-71bf2af25f99" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="8ee84789-9c04-1316-6edd-4d33871eed3f" targetId="6081071c-e441-36bd-85ff-5048c88bbc46" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="25704c4e-9f0f-5a57-db92-28ca5d4092e5" targetId="d97e327f-efbf-647a-5f5e-15cd4ae6b179" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="e0520010-89df-1361-254f-fe47ef212d37" targetId="5a03ff44-727c-e381-47ca-05f5a44d9c4a" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="a353b47f-f1cb-65dd-1c69-64b422f49301" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="c15bbcd4-b47d-9899-445a-35eb17fd7337" name="Commander Bravestorm" points="199.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="88">
+      <entries>
+        <entry id="f076e0a8-32f9-d8bb-cadb-bc10080eae1c" name="XV8-02 Crisis &apos;Iridium&apos; Battlesuit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="4cfbf811-6654-1fc1-efe2-98c97d8c5d36" targetId="41986b53-ddeb-6b81-9080-9d6cb7613737" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="19df3d58-0b7c-352d-49b0-23bbbb381c75" name="Plasma rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="7de4f15a-b1c4-d9a2-3882-92e20b4c4e2d" targetId="bcd3b1af-602d-8fc9-2e66-00203766d6ca" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="d02577f8-7e6c-3e39-72ab-0d39661db3e0" name="Shield generator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="e73b17d7-9d01-5b5f-6bd7-cb142a3a7155" targetId="f2d0aa1c-0a8f-1745-2ad5-db28bf7d7538" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="e2314f56-e0e6-48d8-2d59-3a5b9261941d" name="Gun Drone" points="0.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries>
+            <entry id="cb6e9b87-8e03-f353-7d69-4c7261aac08d" name="Twin-linked pulse carbine" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="e815bde9-1209-4ede-4ae7-9f7af57f63f0" targetId="cbb0da66-186b-a0ad-d442-e6337658b410" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="4dcdd8a6-0753-1ab4-f219-f0dd65e7ea86" targetId="c45edd04-fbed-9960-761b-57d0efa228a8" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="cf4b492e-ffc2-a554-5db0-c22f1cbe65e9" name="Onager Gauntlet" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="cd0beb5c-31a8-7d1a-bc06-e689f643aa42" targetId="2e4c8d16-a25b-edc1-5cfe-66c4739147fa" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="45228896-0135-6d86-be4b-1420ea58c1f7" name="Stimulant injector" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="bde16b38-0c82-d591-2d64-e2c1120f0c21" targetId="bc5aa4ef-eb4c-21b7-1d88-514fb7654741" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="efa47a4b-cf47-a188-2d3b-922b736352a5" name="Flamer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="ce20828d-be69-0e7c-94a2-61eab63b2f22" targetId="fb32f9a8-c522-f9b5-b2f0-4af2080c1d09" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="edc16822-566e-a4ba-0bec-de4db0c01b49" profileTypeId="556e697423232344415441232323" name="Commander Bravestorm" hidden="false" book="Farsight Enclaves" page="88">
+          <characteristics>
+            <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Jet Pack Infantry (Character)"/>
+            <characteristic characteristicId="575323232344415441232323" name="WS" value="4"/>
+            <characteristic characteristicId="425323232344415441232323" name="BS" value="5"/>
+            <characteristic characteristicId="5323232344415441232323" name="S" value="5"/>
+            <characteristic characteristicId="5423232344415441232323" name="T" value="5"/>
+            <characteristic characteristicId="5723232344415441232323" name="W" value="4"/>
+            <characteristic characteristicId="4923232344415441232323" name="I" value="3"/>
+            <characteristic characteristicId="4123232344415441232323" name="A" value="4"/>
+            <characteristic characteristicId="4c4423232344415441232323" name="LD" value="10"/>
+            <characteristic characteristicId="5361766523232344415441232323" name="Save" value="2+/4++"/>
+            <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="44b7d9d3-30d2-6a02-1b20-a328d38cfd6a" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="791eb76d-1846-6a25-182b-da8f440db39a" targetId="6081071c-e441-36bd-85ff-5048c88bbc46" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="60b02f9f-6f0e-6ccb-a235-76844cd5ea65" targetId="d97e327f-efbf-647a-5f5e-15cd4ae6b179" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="377b975b-eb6e-6216-a5a8-38975c36c8b6" targetId="5a03ff44-727c-e381-47ca-05f5a44d9c4a" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="156e7864-4f94-e167-e80b-b59f330a7308" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="e6b8b477-207d-c790-2053-7c02cc5fbc02" name="Commander Brightsword" points="200.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="88">
+      <entries>
+        <entry id="9c9edbf9-97fd-4e97-12a3-58c3858267cf" name="Fusion Blades" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Farsight Enclaves" page="90">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="f9f2b0b2-ee14-1a48-d04f-9246f9ad2d7e" targetId="692aa8f3-3c08-5933-351e-a21ab4eaed54" linkType="profile">
+              <modifiers/>
+            </link>
+            <link id="bc118c04-99da-1677-9fe2-b5ba6bcab492" targetId="b36e70bd-6fbf-20d1-02c5-8d24b4790630" linkType="profile">
+              <modifiers/>
+            </link>
+            <link id="9d741ff1-5d31-662e-b6ce-1a497239809b" targetId="ac49897c-23fd-8b19-1cf6-d233afb94db1" linkType="profile">
+              <modifiers/>
+            </link>
+            <link id="b1d6cfd5-a129-e4ca-50ff-28281e0c553a" targetId="d98e20e5-1eaa-bf83-2336-31edefc5a327" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="25bbe33e-4ea9-07ef-99a7-5296576e4781" name="Twin-linked fusion blaster" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="ff94c0e1-c99e-285c-8bcf-d5a394b2f07e" targetId="be4d6cdc-18e5-ab45-24b7-e15ed5ceddb9" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="33841282-a27c-27a1-14da-d6df0884f807" name="Advanced targeting system" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="590769c4-0313-cee3-1b20-711386186c63" targetId="02c91765-6330-2a40-f727-e7f6525780e9" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="5f92906c-aab6-a3e5-7dfe-8189490c8c70" name="Stimulant injector" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="f37b47b4-e638-a829-dd6a-e80c95616179" targetId="bc5aa4ef-eb4c-21b7-1d88-514fb7654741" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="fc752d68-5bfe-8be6-ad98-a60bdb36b6bb" name="Shield Drone" points="0.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries>
+            <entry id="bc953dac-c31f-3aea-3e21-484fdc23f9e9" name="Shield generator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="c1caf79b-0949-3589-a86e-440f21660a47" targetId="f2d0aa1c-0a8f-1745-2ad5-db28bf7d7538" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="32f17888-41b9-8f08-f1a4-0dfa5ec5848d" targetId="c47b9bf3-cebd-bbe1-85d9-6b1554582607" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="a8dcbd98-f0dc-fdea-54ce-7a7bcd3fa66f" name="Warscaper Drone" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="90">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="39f37e01-fb2c-643d-d887-a210f9f8bcb3" targetId="ef5e7026-b8fa-8e47-4138-6ecdc8f907db" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="badf8828-1c44-108d-e009-205bc410e98b" profileTypeId="556e697423232344415441232323" name="Commander Brightsword" hidden="false" book="Farsight Enclaves" page="88">
+          <characteristics>
+            <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Jet Pack Infantry (Character)"/>
+            <characteristic characteristicId="575323232344415441232323" name="WS" value="4"/>
+            <characteristic characteristicId="425323232344415441232323" name="BS" value="5"/>
+            <characteristic characteristicId="5323232344415441232323" name="S" value="5"/>
+            <characteristic characteristicId="5423232344415441232323" name="T" value="4"/>
+            <characteristic characteristicId="5723232344415441232323" name="W" value="4"/>
+            <characteristic characteristicId="4923232344415441232323" name="I" value="3"/>
+            <characteristic characteristicId="4123232344415441232323" name="A" value="4"/>
+            <characteristic characteristicId="4c4423232344415441232323" name="LD" value="10"/>
+            <characteristic characteristicId="5361766523232344415441232323" name="Save" value="3+"/>
+            <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="1cba0ed2-5d8a-6467-9c34-649a89aae64b" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="b51f8c14-7140-64f8-0293-2156f4d1b890" targetId="6081071c-e441-36bd-85ff-5048c88bbc46" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="b1bb1107-1bb2-4e51-ba67-545d304576d6" targetId="d97e327f-efbf-647a-5f5e-15cd4ae6b179" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="9aef61a8-d170-b53b-9363-9750304ec411" targetId="5a03ff44-727c-e381-47ca-05f5a44d9c4a" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="c54cd82a-cac6-2d0d-b2cb-4cee180d8863" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -4391,6 +5272,136 @@ I play Tau and love all the Forge World models, contact me if something would ne
           <modifiers/>
         </link>
         <link id="2e563bd9-5bb5-3b23-8fcf-7f7367764222" targetId="d97e327f-efbf-647a-5f5e-15cd4ae6b179" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="1bde2020-d809-2053-a8d0-690ed2c26fcb" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="61e31386-af69-077b-af8f-96899515a7b2" name="Commander Sha&apos;vastos" points="174.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="88">
+      <entries>
+        <entry id="873aff82-a9ed-a75c-f9f6-932468dedd1e" name="Plasma rifle" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="b4a39325-7a86-0c3b-e1ed-b7f99821e23e" targetId="bcd3b1af-602d-8fc9-2e66-00203766d6ca" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="7f1a01d3-9c37-3c9b-5ebc-ea6df5855ce2" name="Gun Drone" points="0.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries>
+            <entry id="662ad577-caf3-b0ad-5e9b-3efe3683e1e8" name="Twin-linked pulse carbine" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="b2d22d35-ae9b-8a25-dfd7-9c383cb2954b" targetId="cbb0da66-186b-a0ad-d442-e6337658b410" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="6f643d1b-2f02-1d0a-42f0-bea627ff3b33" targetId="c45edd04-fbed-9960-761b-57d0efa228a8" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="c4072b7e-e608-95f7-0dfc-2e6e0e5a25c5" name="Shield generator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="56fbe2cb-9dbf-b7ac-8352-f62511152f62" targetId="f2d0aa1c-0a8f-1745-2ad5-db28bf7d7538" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="553ae164-e634-9302-4a9d-4bb89baa789c" name="Vectored retro-thrusters" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="b91a658f-8064-4a88-c459-77b0d9aa7981" targetId="8497c564-f5ef-f3f2-1ef8-26e940e08681" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="02ae026d-58d0-1084-ef98-41cc1f86067a" name="Puretide Engram Neurochip" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="34e16da3-b25b-2f30-6350-a93f86373640" targetId="335bec21-ad52-3725-1044-28790097fce7" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="1dd6607c-2b5f-cea2-50a4-91f40cad8b8d" name="Flamer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="0b5f485c-1ff4-d45b-ea25-681d834cb8b0" targetId="fb32f9a8-c522-f9b5-b2f0-4af2080c1d09" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="56874f74-9833-296e-a582-d66af0445005" profileTypeId="556e697423232344415441232323" name="Commander Sha&apos;vastos" hidden="false" book="Farsight Enclaves" page="88">
+          <characteristics>
+            <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Jet Pack Infantry (Character)"/>
+            <characteristic characteristicId="575323232344415441232323" name="WS" value="4"/>
+            <characteristic characteristicId="425323232344415441232323" name="BS" value="5"/>
+            <characteristic characteristicId="5323232344415441232323" name="S" value="5"/>
+            <characteristic characteristicId="5423232344415441232323" name="T" value="4"/>
+            <characteristic characteristicId="5723232344415441232323" name="W" value="4"/>
+            <characteristic characteristicId="4923232344415441232323" name="I" value="3"/>
+            <characteristic characteristicId="4123232344415441232323" name="A" value="4"/>
+            <characteristic characteristicId="4c4423232344415441232323" name="LD" value="10"/>
+            <characteristic characteristicId="5361766523232344415441232323" name="Save" value="3+"/>
+            <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="9df05009-72ab-9116-5d77-de4bfa81eb6f" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="e411c4c2-77c8-882a-3131-5df2bf4aca5b" targetId="6081071c-e441-36bd-85ff-5048c88bbc46" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="fd45d441-7a2d-83c3-9f07-729463ce2165" targetId="d97e327f-efbf-647a-5f5e-15cd4ae6b179" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="188787d3-8f68-3244-df31-b28892f397a9" targetId="5a03ff44-727c-e381-47ca-05f5a44d9c4a" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="ec34f7ec-f586-8bad-2aab-ad24e91b67db" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -4618,6 +5629,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
             </modifier>
           </modifiers>
         </link>
+        <link id="031d6a42-3af9-2ddd-9a97-38f694170893" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="6081071c-e441-36bd-85ff-5048c88bbc46" name="Crisis battlesuit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="70">
@@ -4745,6 +5759,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
           <modifiers/>
         </link>
         <link id="ad085c49-05eb-6c5f-73e4-778c41e658e4" targetId="9e3a241d-a018-b4ce-6c0b-fb9d7b1d70f2" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="d94069c4-d0f8-4deb-4c50-f4124aaa9078" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -5042,6 +6059,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
         <link id="d2905a01-39cf-867b-357e-d7805d443ada" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
           <modifiers/>
         </link>
+        <link id="d7392758-5ee5-c682-300e-022eaa272905" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="c0c22c08-5442-4d47-90df-fc6c90c910c9" name="DX-6 &apos;Remora&apos; Drone Fighter Squadron [FW]" points="0.0" categoryId="466173742041747461636b23232344415441232323" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="IA 3 SE: Taros Campaign" page="262">
@@ -5104,6 +6124,18 @@ I play Tau and love all the Forge World models, contact me if something would ne
       <rules/>
       <profiles/>
       <links/>
+    </entry>
+    <entry id="50780c0b-6d07-4565-65b4-e582eb4f9a8f" name="Earth Caste Pilot Array" points="30.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="90">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="c69bac42-ed4d-c346-b718-130b2464744e" targetId="46531097-c355-0a68-5484-8f70872bf3ba" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
     </entry>
     <entry id="d5af2c1a-5356-4fc7-8b77-b059c362c47c" name="Ethereal" points="50.0" categoryId="485123232344415441232323" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="97">
       <entries>
@@ -5187,6 +6219,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
         <link id="51e19ffe-b8ab-18d2-6a7f-e0758228b133" targetId="c96925a7-06d9-cb03-1cbb-3022890c0ce9" linkType="entry group">
           <modifiers/>
         </link>
+        <link id="c99ce686-8ffa-a431-f617-1cfe0193792e" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="f716f48f-63fa-61a3-d601-aff2488ddae2" name="Failsafe Detonator" points="10.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" page="0">
@@ -5200,6 +6235,50 @@ I play Tau and love all the Forge World models, contact me if something would ne
           <modifiers/>
         </link>
       </links>
+    </entry>
+    <entry id="cf960e9c-eb7f-67e6-569a-56e604f0ce23" name="Farsight&apos;s Commander Team" points="0.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Farsight Enclaves" page="0">
+      <entries/>
+      <entryGroups>
+        <entryGroup id="6b6906d0-d433-373c-fe14-d5a386780129" name="The Eight - choose up to 7" defaultEntryId="f281ddba-4551-3afe-a90a-3287f95c5e6d" minSelections="1" maxSelections="7" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <links>
+            <link id="f281ddba-4551-3afe-a90a-3287f95c5e6d" targetId="85da10b2-7258-4956-8129-7cf94ff97e16" linkType="entry">
+              <modifiers/>
+            </link>
+            <link id="531dd689-e279-8d53-4577-7c7f1d4ef478" targetId="e6b8b477-207d-c790-2053-7c02cc5fbc02" linkType="entry">
+              <modifiers/>
+            </link>
+            <link id="8be5c463-5fee-9b37-2b0e-c3d8ecaebb14" targetId="b6384bd1-a03b-b6a2-2a5e-fffc591dd5e0" linkType="entry">
+              <modifiers/>
+            </link>
+            <link id="e5a17500-d48f-0290-0191-9e6236a23595" targetId="1526f166-eb9d-0e64-b730-7a7b7d9c561b" linkType="entry">
+              <modifiers/>
+            </link>
+            <link id="44ed0a6b-185c-6af2-1cd1-b9b4c1258a19" targetId="61e31386-af69-077b-af8f-96899515a7b2" linkType="entry">
+              <modifiers/>
+            </link>
+            <link id="20ffc9bd-3e32-05bf-3fac-9def0871c6fe" targetId="c47299f1-5748-4e97-3c69-5965201fb6eb" linkType="entry">
+              <modifiers/>
+            </link>
+            <link id="8be3c686-bbf6-bb2c-44de-25101fbfebd0" targetId="b919a62d-73dd-cae9-a8aa-2256fd7adb87" linkType="entry">
+              <modifiers/>
+            </link>
+            <link id="52b54843-f813-b746-daa5-b840943f3ebf" targetId="c15bbcd4-b47d-9899-445a-35eb17fd7337" linkType="entry">
+              <modifiers/>
+            </link>
+          </links>
+        </entryGroup>
+      </entryGroups>
+      <modifiers/>
+      <rules>
+        <rule id="a5d31638-b663-3071-607d-42a8415650c6" name="HQ choice (not counting towards FoC)" hidden="false" page="0">
+          <modifiers/>
+        </rule>
+      </rules>
+      <profiles/>
+      <links/>
     </entry>
     <entry id="28dda7dc-cd85-3f3d-7883-6099e749ab10" name="Fighter Ace" points="50.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Death from the Skies" page="42">
       <entries/>
@@ -5244,7 +6323,7 @@ I play Tau and love all the Forge World models, contact me if something would ne
             </link>
           </links>
         </entry>
-        <entry id="bd073896-9de0-f766-7632-e3708342e43a" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+        <entry id="bd073896-9de0-f766-7632-e3708342e43a" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -5391,6 +6470,30 @@ I play Tau and love all the Forge World models, contact me if something would ne
               <conditionGroups/>
             </modifier>
           </modifiers>
+        </link>
+        <link id="64154ed3-785c-b383-db7d-3ec42a0a5879" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="42cc047e-10e2-f73e-f454-abf8adc04d7f" name="Fusion Blades" points="30.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="90">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="9256c009-a0cb-4e38-ce31-b095731e0488" targetId="692aa8f3-3c08-5933-351e-a21ab4eaed54" linkType="profile">
+          <modifiers/>
+        </link>
+        <link id="bc73217e-b157-9a42-2a54-b89b4ee6227b" targetId="b36e70bd-6fbf-20d1-02c5-8d24b4790630" linkType="profile">
+          <modifiers/>
+        </link>
+        <link id="52f33610-b08b-7029-5f2f-548d94eb645a" targetId="ac49897c-23fd-8b19-1cf6-d233afb94db1" linkType="profile">
+          <modifiers/>
+        </link>
+        <link id="e3aa9c15-18cb-7a3e-c9e7-7ff129f5a032" targetId="d98e20e5-1eaa-bf83-2336-31edefc5a327" linkType="rule">
+          <modifiers/>
         </link>
       </links>
     </entry>
@@ -5562,6 +6665,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
             </modifier>
           </modifiers>
         </link>
+        <link id="5c2d41fd-d471-7bf7-c48e-ca2721ae6001" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="7df70edf-5b9c-4e97-a6d3-dffc88367b29" name="Hammerhead Gunship" points="125.0" categoryId="486561767920537570706f727423232344415441232323" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="103">
@@ -5669,7 +6775,7 @@ I play Tau and love all the Forge World models, contact me if something would ne
               <rules/>
               <profiles/>
               <links>
-                <link id="8526769c-e7af-2d07-c085-5540ffda183d" targetId="48caf92c-a5f5-89de-37ea-65489e2c5904" linkType="profile">
+                <link id="f5b7b993-1c5a-035f-0386-cbd702d30883" targetId="cf5c96b9-2fe1-7515-dd29-174022f88af8" linkType="profile">
                   <modifiers/>
                 </link>
               </links>
@@ -5681,7 +6787,7 @@ I play Tau and love all the Forge World models, contact me if something would ne
               <rules/>
               <profiles/>
               <links>
-                <link id="19dc6409-90d9-48e6-e3bc-4e8682c99c6a" targetId="c25ff470-b2a0-977c-7fc9-9ba0cdb81e20" linkType="profile">
+                <link id="7fb80298-be84-75a5-1511-441b47146214" targetId="e8ff6876-764a-b76e-b843-73fabb56543e" linkType="profile">
                   <modifiers/>
                 </link>
               </links>
@@ -5851,6 +6957,166 @@ I play Tau and love all the Forge World models, contact me if something would ne
       <profiles/>
       <links>
         <link id="2ea0b2bb-42fb-b577-cb2b-acf1ea37d9a8" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="dd04507c-a195-ef29-9fbc-f18cd5e632c1" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="b919a62d-73dd-cae9-a8aa-2256fd7adb87" name="Honour-Shas&apos;vre O&apos;Vesa" points="305.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="88">
+      <entries>
+        <entry id="de3a2eb1-1d94-dc51-3124-8bdb3c5d272a" name="Shielded Missile Drone" points="0.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries>
+            <entry id="897f73ff-f4df-2320-0780-a35e6667c133" name="Missile pod" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="c7c90b94-eaf0-17c5-4907-2f3ca080f49d" targetId="428e5b42-e515-7ea7-fb87-13459a889761" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="a34907cc-5191-7923-1594-1f26b8f60214" name="Shield generator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="4de02e11-09b0-73e7-e430-9691e4401f88" targetId="f2d0aa1c-0a8f-1745-2ad5-db28bf7d7538" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="24822e0f-1ad9-dad6-d0ba-182702bfa8c2" targetId="3cd32551-1477-84d2-1a37-82492a4fadc7" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="0b9959e9-33bf-f023-6287-523def7d00f1" name="Riptide Shield Generator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="a4665f62-93b6-3fbe-4c02-0c3e57f5a540" targetId="7751a914-5eab-3447-f553-3989f3a9d667" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="fd8e4b65-be65-9a55-e890-cfdb6446f0ec" name="Ion accelerator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="d82396f0-d7e9-4fbd-a60a-d63033ab3fc6" targetId="2faef8c5-3465-f930-5777-827ac957ff63" linkType="profile">
+              <modifiers/>
+            </link>
+            <link id="23bcdb8e-0e4f-cc11-1df5-5bbbbc5ddb17" targetId="66b7fa07-16f9-f99d-f2d5-ea89d08613e4" linkType="profile">
+              <modifiers/>
+            </link>
+            <link id="2ed8c919-b9db-a5e9-7a97-56c3ed974c74" targetId="5d55b1f9-e5c5-3dd5-6618-844766a96d37" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="3a5107e3-e4e4-592b-c27d-f5af93db562d" name="Early warning override" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="3213a5e3-b377-f369-4ca5-456222369ecc" targetId="9ea45941-5974-ce39-edcc-2b08753df675" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="cb0c55cf-d1f7-e86a-c8e8-404b47aa3f6e" name="Stimulant injector" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="2e3aadc6-d9f1-8943-fa73-499ac9829787" targetId="bc5aa4ef-eb4c-21b7-1d88-514fb7654741" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="d7ace943-2ec0-ef36-a81a-eb49591bba0b" name="Twin-linked fusion blaster" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="e132ef37-fc02-26e2-6dc1-99a7ef1c9c8a" targetId="be4d6cdc-18e5-ab45-24b7-e15ed5ceddb9" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="8dbe7239-1eb1-553f-34d0-fc3586785e45" name="Earth Caste Pilot Array" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="90">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="d7b920a5-eebf-f631-d564-24eb914b995e" targetId="46531097-c355-0a68-5484-8f70872bf3ba" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="451df584-73ae-3cab-f18d-803fc1141421" profileTypeId="556e697423232344415441232323" name="Honour-Shas&apos;vre O&apos;Vesa" hidden="false" book="Farsight Enclaves" page="88">
+          <characteristics>
+            <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Jet Pack Monstrous Creature"/>
+            <characteristic characteristicId="575323232344415441232323" name="WS" value="1"/>
+            <characteristic characteristicId="425323232344415441232323" name="BS" value="3"/>
+            <characteristic characteristicId="5323232344415441232323" name="S" value="6"/>
+            <characteristic characteristicId="5423232344415441232323" name="T" value="6"/>
+            <characteristic characteristicId="5723232344415441232323" name="W" value="5"/>
+            <characteristic characteristicId="4923232344415441232323" name="I" value="2"/>
+            <characteristic characteristicId="4123232344415441232323" name="A" value="3"/>
+            <characteristic characteristicId="4c4423232344415441232323" name="LD" value="9"/>
+            <characteristic characteristicId="5361766523232344415441232323" name="Save" value="2+/5++"/>
+            <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="1063aaea-8921-8500-e5dc-86b038c2f912" targetId="ff23e8e9-3e24-25f7-c411-a94dc307ba55" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="cd76f95a-aadb-ae83-d218-0b4fd8f4967d" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="e5740d31-dcf7-e99a-2215-a53bd3d1fde6" targetId="3fce38be-118d-9c1e-4a1a-32afbf9d9f96" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="97d41679-edaf-d4d9-1b87-dbbd8972af9a" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="52935ebf-9b34-ec28-20d6-2b379a06f4c2" targetId="d97e327f-efbf-647a-5f5e-15cd4ae6b179" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -6030,6 +7296,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
             </modifier>
           </modifiers>
         </link>
+        <link id="9388fec3-5f00-7798-76ca-cac8f9594f7c" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="3c8db5a2-c9d0-ee27-c81f-12dda2845c54" name="Kroot Knarloc Rider Herd [FW]" points="0.0" categoryId="466173742041747461636b23232344415441232323" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="IA 3 SE: Taros Campaign" page="170">
@@ -6101,6 +7370,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
               <conditionGroups/>
             </modifier>
           </modifiers>
+        </link>
+        <link id="e7a693e6-7e85-72c3-cf3d-62f0942749b2" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
         </link>
       </links>
     </entry>
@@ -6326,6 +7598,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
             </modifier>
           </modifiers>
         </link>
+        <link id="c83e8e51-81c5-b63d-b58d-280128b4804e" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="a9add8c9-41fc-121a-6310-ff665af14c50" name="Multi-spectrum Sensor Suite" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" page="0">
@@ -6465,7 +7740,7 @@ I play Tau and love all the Forge World models, contact me if something would ne
             </link>
           </links>
         </entry>
-        <entry id="2bd0b779-f077-896d-efc2-38b8eb90467e" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+        <entry id="2bd0b779-f077-896d-efc2-38b8eb90467e" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -6812,6 +8087,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
             </modifier>
           </modifiers>
         </link>
+        <link id="03236e4f-b72b-80eb-e609-40d77130ceb2" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="1bd4bd53-5b57-1504-0524-d9669a7d3432" name="Phased ion gun" points="10.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
@@ -7135,6 +8413,18 @@ I play Tau and love all the Forge World models, contact me if something would ne
         </link>
       </links>
     </entry>
+    <entry id="145d3b87-4f9e-aea0-7bee-be3232efc037" name="Seismic Fibrillator Node" points="45.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="90">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="fc9d2d44-3a30-a29f-2ec8-4eb2e0a57904" targetId="e61b5338-3ca7-8388-154f-eae148f6f9a3" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
     <entry id="c1b99bf8-9ffb-401d-ab07-bba47e5cb4a6" name="Sensor Tower Grid [FW]" points="0.0" categoryId="54726f6f707323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="IA 3 SE: Taros Campaign" page="179">
       <entries>
         <entry id="eb1153ea-5ba3-4a9c-8c92-a6d22dcd8e45" name="Sensor Tower" points="30.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
@@ -7207,6 +8497,124 @@ I play Tau and love all the Forge World models, contact me if something would ne
       </rules>
       <profiles/>
       <links/>
+    </entry>
+    <entry id="b6384bd1-a03b-b6a2-2a5e-fffc591dd5e0" name="Shas&apos;vre Ob&apos;lotai 9-0" points="128.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="88">
+      <entries>
+        <entry id="ecab95cc-abc2-61ad-5de7-7d85cc95d885" name="Seeker missile" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="5f2a7b5c-282e-7b28-6408-bc97ac26d136" targetId="9cc8ceef-b172-b0ba-bc66-bc50c0b0c4ab" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="a3b6fc14-9d6e-b82e-032e-43c7aaf8c065" name="Twin-linked high-yield missile pod" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="588558e7-d4bb-b67d-6543-382ea5044135" targetId="140a084b-d79c-f507-e489-fe94f246fdb8" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="1ef0b78a-3ad3-9be3-509f-524e6f85bf52" name="Twin-linked smart missile system" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="52c90665-134d-2862-b8d8-47742296e515" targetId="81a25964-dcbc-15ae-aba4-f128872da8f2" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="aee71b05-5d39-2e4d-a159-099e010f4553" name="Velocity tracker" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="c47508bd-5398-1a50-6c1b-6c72e8067c2d" targetId="7ea009f0-d5ce-75c9-6932-17d8950d1d32" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="fee78b39-f2c9-06cc-53de-5ee89f6aefbc" name="Missile Drone" points="0.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries>
+            <entry id="9bd9be1b-638d-10a7-028a-dddbbfb086f9" name="Missile pod" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="0bb63d2d-bfaf-7e6a-3d93-4ab8a5d6670d" targetId="428e5b42-e515-7ea7-fb87-13459a889761" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="4615e14d-4d14-a51d-9e2e-5a637a122f12" targetId="05c422aa-3c2a-436b-4274-0f97afa30bde" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="a44c5982-40c2-8768-bf51-61a044d0e729" profileTypeId="556e697423232344415441232323" name="Shas&apos;vre Ob&apos;lotai 9-0" hidden="false" book="Farsight Enclaves" page="88">
+          <characteristics>
+            <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Infantry (Character)"/>
+            <characteristic characteristicId="575323232344415441232323" name="WS" value="2"/>
+            <characteristic characteristicId="425323232344415441232323" name="BS" value="3"/>
+            <characteristic characteristicId="5323232344415441232323" name="S" value="5"/>
+            <characteristic characteristicId="5423232344415441232323" name="T" value="4"/>
+            <characteristic characteristicId="5723232344415441232323" name="W" value="2"/>
+            <characteristic characteristicId="4923232344415441232323" name="I" value="2"/>
+            <characteristic characteristicId="4123232344415441232323" name="A" value="3"/>
+            <characteristic characteristicId="4c4423232344415441232323" name="LD" value="9"/>
+            <characteristic characteristicId="5361766523232344415441232323" name="Save" value="2+"/>
+            <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="b648dcc4-1441-892f-2ffe-c580a24c2017" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="f3caf5c1-afb0-833b-cc14-bc9c1b6865ac" targetId="d97e327f-efbf-647a-5f5e-15cd4ae6b179" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="a0078a6f-ff99-5463-ad06-da241b61bc56" targetId="10eea28b-3f89-465a-cfb2-2c18c458b56e" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="3270ddcb-9e40-3b28-0f58-1ede36373614" targetId="75a31957-ff39-d113-ea09-79795cc2123f" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="e56e82d6-3e25-6732-f277-2643779b63a7" targetId="706ac166-91de-9abc-d577-efab540d20fc" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="d64781ab-14b4-7f9e-0b30-1672e66ab184" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
     </entry>
     <entry id="f60502dd-617d-03e1-a946-b98f47b7197f" name="Shield generator" points="25.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
       <entries/>
@@ -7410,6 +8818,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
         <link id="84f66721-993b-a470-b232-d0b17d4fcba8" targetId="05b3a4c5-d439-5178-588c-2b58eabf8f03" linkType="rule">
           <modifiers/>
         </link>
+        <link id="233876d1-a6dc-706a-d332-a009440f188f" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="182a892f-32ec-81e1-2d69-080e2912b6f2" name="Stealth battlesuit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="70">
@@ -7438,7 +8849,7 @@ I play Tau and love all the Forge World models, contact me if something would ne
     </entry>
     <entry id="490bcf2a-9457-48c1-aa7d-8180048b2d1b" name="Stealth Team" points="0.0" categoryId="456c6974657323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="100">
       <entries>
-        <entry id="cbac609b-6bd8-9cf1-e653-23cbcd05265d" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+        <entry id="cbac609b-6bd8-9cf1-e653-23cbcd05265d" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -7681,6 +9092,136 @@ I play Tau and love all the Forge World models, contact me if something would ne
             </modifier>
           </modifiers>
         </link>
+        <link id="8ccf3eb9-0cda-eb74-edf9-ea87313f8be7" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="c47299f1-5748-4e97-3c69-5965201fb6eb" name="Sub-commander Torchstar" points="154.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="88">
+      <entries>
+        <entry id="76a8b932-680e-404d-5f5e-1505b44e8454" name="Flamer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="02e82170-bf63-e6e3-1fae-47a5316d495e" targetId="fb32f9a8-c522-f9b5-b2f0-4af2080c1d09" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="638cc06f-b22f-4144-11d6-04bf6a36c80c" name="Target lock" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="3aa58951-b4e4-11b4-955e-e1810b07bbb0" targetId="b6466a4f-626b-798c-6e32-acee6a2cf16d" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="a8ab48ab-b3b5-730e-1ef4-acca79b2a1bf" name="Drone controller" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="786c3077-65a1-3dd4-a2bd-d31c428dc182" targetId="fe930f18-98cc-e7e3-5ae0-71a2707d94f3" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="ae099310-8437-5c42-b59e-e8356a3ac15c" name="Marker Drone" points="0.0" categoryId="(No Category)" type="model" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries>
+            <entry id="38d7d53f-bade-664d-97bb-2bba9bd67aa9" name="Markerlight" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="dc5cc9fa-f834-896d-2f08-1d4d5f023a11" targetId="b713cb61-358e-14df-27d3-693b187e6970" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="e71b3f07-25ce-1f26-cf48-ad00f98689ae" targetId="66a1baad-58ee-b401-ef28-7d2b54832fc6" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="12bec70f-b56f-d8d5-72e1-164359cb5d84" name="Multi-spectrum Sensor Suite" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="cb08cdbd-5265-bace-10a7-cadfd326a881" targetId="50c332d5-f3d2-46d3-ae46-8c0c337352e1" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="8122d2c1-6187-024f-0143-27ef5809bd8c" name="Neuroweb System Jammer" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="8aa690e8-0b3c-d0dc-8e7f-910d2f505f87" targetId="49a02c72-bb06-fb08-7163-5adc3d3da3fd" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="e0cc5183-df06-537c-c421-b0200f978b55" profileTypeId="556e697423232344415441232323" name="Sub-commander Torchstar" hidden="false" book="Farsight Enclaves" page="88">
+          <characteristics>
+            <characteristic characteristicId="556e6974205479706523232344415441232323" name="Unit Type" value="Jet Pack Infantry (Character)"/>
+            <characteristic characteristicId="575323232344415441232323" name="WS" value="4"/>
+            <characteristic characteristicId="425323232344415441232323" name="BS" value="5"/>
+            <characteristic characteristicId="5323232344415441232323" name="S" value="5"/>
+            <characteristic characteristicId="5423232344415441232323" name="T" value="4"/>
+            <characteristic characteristicId="5723232344415441232323" name="W" value="4"/>
+            <characteristic characteristicId="4923232344415441232323" name="I" value="3"/>
+            <characteristic characteristicId="4123232344415441232323" name="A" value="4"/>
+            <characteristic characteristicId="4c4423232344415441232323" name="LD" value="10"/>
+            <characteristic characteristicId="5361766523232344415441232323" name="Save" value="3+"/>
+            <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="5039c1d5-8f3c-e36b-d75a-318aff81fa98" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="4b7fbb84-c083-fcfa-2dbb-49b018e7ff17" targetId="6081071c-e441-36bd-85ff-5048c88bbc46" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="96d305c9-ce10-8a9f-c646-531cad3f8709" targetId="d97e327f-efbf-647a-5f5e-15cd4ae6b179" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="3880f52a-9c0e-c3ca-5778-1f3831e26bf9" targetId="5a03ff44-727c-e381-47ca-05f5a44d9c4a" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="36f4fffd-7564-c3ec-d3be-8a8d78ea633d" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="37423448-21bf-e3ff-cb66-f2cbbb21fe3a" name="Sun Shark Bomber" points="160.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="102">
@@ -7804,6 +9345,18 @@ I play Tau and love all the Forge World models, contact me if something would ne
         </link>
       </links>
     </entry>
+    <entry id="87031305-ff97-0210-a58b-09ffecc52810" name="Talisman of Arthas Moloch" points="25.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="90">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="56d0c2c7-6a3b-fd2d-64c9-bc456d338a13" targetId="b66a2f7c-bf25-7911-42c6-91a4f37c2828" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
     <entry id="16a9d2e5-41cf-4095-9446-0fe2edcc5f38" name="Tetra Scout Speeder Team [FW]" points="0.0" categoryId="466173742041747461636b23232344415441232323" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="IA 3 SE: Taros Campaign" page="150">
       <entries>
         <entry id="fc1c54cf-f891-4a66-8a69-54e852db2f1a" name="Tetra" points="35.0" categoryId="(No Category)" type="model" minSelections="1" maxSelections="4" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
@@ -7867,6 +9420,18 @@ I play Tau and love all the Forge World models, contact me if something would ne
       <rules/>
       <profiles/>
       <links/>
+    </entry>
+    <entry id="719e6f91-5ff6-1a2f-b2da-5436cc12544d" name="The Mirrorcodex" points="50.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="90">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="9b4b099d-e9cf-3f1f-1763-067729244a39" targetId="e1c66fcd-270d-2c26-9763-95b42760c17c" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
     </entry>
     <entry id="02db9678-0644-4305-bdb8-39c875d52a6d" name="Tiger Shark" points="520.0" categoryId="a62054cf-c90a-2534-ebd1-020c1e6cf5b6" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="IA 3 SE: Taros Campaign" page="0">
       <entries>
@@ -8151,6 +9716,21 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
             </modifier>
           </modifiers>
         </link>
+        <link id="cde8607b-34e2-9952-54ac-7f79efdfcb80" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="cfe1a311-0c4c-677c-fb68-a54143135222" name="Warscaper Drone" points="35.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="Farsight Enclaves" page="90">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="62124c43-56f7-62bd-c7cd-339a05de68aa" targetId="ef5e7026-b8fa-8e47-4138-6ecdc8f907db" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="cecabc47-5a5d-64d4-6e99-5755d4907be2" name="XV104 Riptide" points="180.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="100">
@@ -8409,6 +9989,262 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
         <link id="0729df04-c2a7-808a-d27c-a7ebb0869ccb" targetId="3fce38be-118d-9c1e-4a1a-32afbf9d9f96" linkType="rule">
           <modifiers/>
         </link>
+        <link id="18549ec7-c9f2-95eb-b586-0cb047e1d49e" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="47a3e687-75b4-3ebe-034e-f80c86a680e6" targetId="4f5974a9-f510-3847-0ce9-2288e3c771e2" linkType="entry group">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="4e04f581-a4d2-53ba-412a-d87a3933a4ad" name="XV107 R&apos;varna Battlesuit" points="260.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+      <entries>
+        <entry id="8f13ad85-b733-df98-96a0-bf4de0b197cc" name="Shielded Missile Drone" points="25.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries>
+            <entry id="6c59fbd7-9b58-31f8-9002-0e2af4b525ec" name="Missile pod" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="d2a95674-662a-70bc-cc76-ec7dc7f00c95" targetId="428e5b42-e515-7ea7-fb87-13459a889761" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="aeba30d4-7b14-cc6e-6d62-4139de456878" name="Shield generator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="00584a96-9cef-7a09-6627-6362d593468a" targetId="f2d0aa1c-0a8f-1745-2ad5-db28bf7d7538" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles/>
+          <links>
+            <link id="f8d44cff-4912-6e19-3dcd-2cc757fbe859" targetId="3cd32551-1477-84d2-1a37-82492a4fadc7" linkType="profile">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="f0c019c5-de5a-994e-eb9e-ca8ca159a6e5" name="Pulse submunitions cannon" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="dd89a5b6-9c3f-ff09-2452-7d0fcdf17c5a" name="Cluster Fire" hidden="false" page="0">
+              <description>Very Bulky models, as well as those with the Bike/Jetbike/Beasts/Cavalry type, suffer two hits each from this weapon at an increased Strength of 7. Extremely Bulky and Artillerr/Monstrous Creature/Vehicle (any type) models and specifically targeted buildings and fortifications suffer 3 hits each if they are hit by the weapon at an increased Strength of 8.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="15ae8295-a444-4762-c66c-b7bc3d60ca6a" profileTypeId="576561706f6e23232344415441232323" name="Pulse submunitions cannon" hidden="false" page="0">
+              <characteristics>
+                <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="60&quot;"/>
+                <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
+                <characteristic characteristicId="415023232344415441232323" name="AP" value="3"/>
+                <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Heavy 1, Large Blast, Cluster Fire(*)"/>
+                <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links/>
+        </entry>
+        <entry id="6acbddf6-b452-684a-282f-6c2a1badab06" name="Integrated shield generator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="c03485af-4a3a-4b57-a8df-ef15d6f2ff29" name="Integrated shield generator" hidden="false" page="0">
+              <description>This provides a 5+ Invulnerable save, which increases to a 4+ Invulnerable save against shooting attacks.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="42a51180-f8e5-342e-8df8-229f9fee56d5" name="XV107 battlesuit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="d0fab238-7f43-14ad-d7c5-937ee451c034" name="XV107 battlesuit" hidden="false" page="0">
+              <description>Includes multi-tracker, blacksun filters and a flechette discharger. In the case of flechette discharger models in contact with R&apos;varna base are subject to the attack.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+        <entry id="6cb4926b-0fbc-93e6-4574-e613fff4ce29" name="Nova Reactor - R&apos;varna class" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules>
+            <rule id="ceecc5e5-5e5d-c51d-5053-73979a60bd33" name="Nova Reactor - R&apos;varna class" hidden="false" page="0">
+              <description>Declare an attempt to use the nova reactor at the start of the model&apos;s Movement phase. Roll a D6. On a result of 1-2, the R&apos;varna fails and suffers a wound (no saves of any kind may be taken). On a 3+, one of the following abilities may be used, its effects lasting until the start of the controlling player&apos;s next Movement phase.
+
+Nova shield
+Noth of the model&apos;s Invulnerable saves are increased to 3+ against both shooting and close combat attacks.
+
+Volley Fire
+The model&apos;s pulse submunition cannon can each be fired twice. Even though these weapons are fired twice, each still only counts as firing single weapon.
+
+Electromagnetic Shockwave
+All models within 6&quot; of the R&apos;varna base, enemy and friendly, suffer an immediate single Strength 2 AP 5 hit with the Haywire type.
+
+Flank Speed
+The models gains the Fleet special rule and when making a Run move, the controlling player rolls 2D6 to determine the distance moved instead of just one.</description>
+              <modifiers/>
+            </rule>
+          </rules>
+          <profiles/>
+          <links/>
+        </entry>
+      </entries>
+      <entryGroups>
+        <entryGroup id="b3b2676f-3213-9b9d-c18f-78c88bb1de5a" name="Support Systems - max 2" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+          <entries>
+            <entry id="370c18c1-7dce-2af7-299f-9e158438d780" name="Advanced targeting system" points="3.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="544eac97-964c-b28e-6cb6-3a3af4949a10" targetId="02c91765-6330-2a40-f727-e7f6525780e9" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="aac79718-d056-ea8a-2db6-d15346ad8c36" name="Counterfire defence system" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="6310fcae-e86b-7c2d-8cca-c5c96dc87d2a" targetId="eb30f158-03f8-5093-af21-7ffea4b7d1a1" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="39f34fff-9240-4571-e597-fb871d4e020a" name="Early warning override" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="485b74eb-9553-719f-ea5f-a0372c9847af" targetId="9ea45941-5974-ce39-edcc-2b08753df675" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="0838e87f-f66e-e6e8-9c2f-9877a7b9d98f" name="Positional relay" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="166d6df4-ae36-8906-a00b-121a0d46dd8f" targetId="4399fd29-0e42-7362-a9bf-e1231412fe4e" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="31b8c0aa-6cb2-d0cd-7111-bb5b392444e1" name="Target lock" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="f69dcb1e-e9d6-38ca-efaa-1f1d7c4c71e1" targetId="b6466a4f-626b-798c-6e32-acee6a2cf16d" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="d851e2e4-430c-fedd-cdaf-a621619bd2e6" name="Drone controller" points="8.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="d6a189a8-e5c1-bad1-5798-bd429f9af226" targetId="fe930f18-98cc-e7e3-5ae0-71a2707d94f3" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="70dd331d-86eb-49f8-1aa2-a0adb7447a8b" name="Stimulant injector" points="35.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="55c69000-a797-8fc4-e7f8-4c1ebfd7b18c" targetId="bc5aa4ef-eb4c-21b7-1d88-514fb7654741" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="5071de0f-266f-8b5f-b4e3-1017df99e608" name="Velocity tracker" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles/>
+              <links>
+                <link id="f238bd02-5e48-424b-d7ee-4c1cf1a45424" targetId="7ea009f0-d5ce-75c9-6932-17d8950d1d32" linkType="profile">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+      </entryGroups>
+      <modifiers/>
+      <rules>
+        <rule id="1499c316-2c25-a029-3b34-e39a2c99ebba" name="FW Experimental Rules" hidden="false" page="0">
+          <description>http://www.forgeworld.co.uk/Downloads/Product/PDF/R/Rvarna.pdf</description>
+          <modifiers/>
+        </rule>
+      </rules>
+      <profiles>
+        <profile id="0a9275c9-eda3-e249-d8cf-9af4d88c1f8c" profileTypeId="4d6f6e7374726f757320437265617475726523232344415441232323" name="XV107 R&apos;varna Battlesuit" hidden="false" page="0">
+          <characteristics>
+            <characteristic characteristicId="575323232344415441232323" name="WS" value="2"/>
+            <characteristic characteristicId="425323232344415441232323" name="BS" value="3"/>
+            <characteristic characteristicId="5323232344415441232323" name="S" value="6"/>
+            <characteristic characteristicId="5423232344415441232323" name="T" value="7"/>
+            <characteristic characteristicId="5723232344415441232323" name="W" value="6"/>
+            <characteristic characteristicId="4923232344415441232323" name="I" value="2"/>
+            <characteristic characteristicId="4123232344415441232323" name="A" value="3"/>
+            <characteristic characteristicId="4c4423232344415441232323" name="LD" value="9"/>
+            <characteristic characteristicId="5361766523232344415441232323" name="Save" value="2+"/>
+            <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="6331f86e-6746-56a9-ef6e-68906b809e19" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="5b84d7be-d9ac-0795-54b8-9fa60a2c4da6" name="XV8 Crisis Bodyguard Team" points="0.0" categoryId="(No Category)" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="0" collective="false" book="Codex: Tau Empire" page="98">
@@ -8620,12 +10456,12 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
                 </modifier>
               </modifiers>
             </link>
-            <link id="6680e3df-cb20-9d4e-4294-536ad49ea57b" targetId="c1713f32-bd87-f78c-2f93-7726c145097f" linkType="entry group">
+            <link id="6680e3df-cb20-9d4e-4294-536ad49ea57b" targetId="4f5974a9-f510-3847-0ce9-2288e3c771e2" linkType="entry group">
               <modifiers/>
             </link>
           </links>
         </entry>
-        <entry id="89a0c3f8-f0e0-aa8a-970e-0d78db2addb9" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+        <entry id="89a0c3f8-f0e0-aa8a-970e-0d78db2addb9" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -8668,6 +10504,9 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
               <conditionGroups/>
             </modifier>
           </modifiers>
+        </link>
+        <link id="27962922-fc9f-85f1-447f-2cabcf9e7fdd" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
         </link>
       </links>
     </entry>
@@ -8880,12 +10719,12 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
                 </modifier>
               </modifiers>
             </link>
-            <link id="2ff83d8e-6a24-7af3-88eb-3cc5046280ca" targetId="c1713f32-bd87-f78c-2f93-7726c145097f" linkType="entry group">
+            <link id="2ff83d8e-6a24-7af3-88eb-3cc5046280ca" targetId="4f5974a9-f510-3847-0ce9-2288e3c771e2" linkType="entry group">
               <modifiers/>
             </link>
           </links>
         </entry>
-        <entry id="37e424b9-6541-2c4b-d036-e0782a6307da" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+        <entry id="37e424b9-6541-2c4b-d036-e0782a6307da" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -8906,10 +10745,16 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
       <entryGroups/>
       <modifiers>
         <modifier type="set" field="maxInRoster" value="1.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="7316b9dd-cd51-4e03-b198-f7492f3cb15a" incrementField="selections" incrementValue="1.0">
-          <conditions>
-            <condition parentId="roster" childId="85da10b2-7258-4956-8129-7cf94ff97e16" field="selections" type="equal to" value="1.0"/>
-          </conditions>
-          <conditionGroups/>
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="85da10b2-7258-4956-8129-7cf94ff97e16" field="selections" type="equal to" value="1.0"/>
+                <condition parentId="roster" childId="cf960e9c-eb7f-67e6-569a-56e604f0ce23" field="selections" type="equal to" value="0.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
         </modifier>
       </modifiers>
       <rules/>
@@ -8923,11 +10768,14 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
             </modifier>
           </modifiers>
         </link>
+        <link id="f641cd02-f18a-e5be-0ef3-c6d1a31a9a1a" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="f0fbbf26-a0db-4f38-8a3b-fd549232910e" name="XV8 Crisis Team" points="0.0" categoryId="456c6974657323232344415441232323" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="100">
       <entries>
-        <entry id="1d38830b-d537-9f65-33ae-39cae4b74c3a" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+        <entry id="1d38830b-d537-9f65-33ae-39cae4b74c3a" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -9125,7 +10973,14 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
                   <modifiers/>
                 </link>
                 <link id="c3bd3087-2590-af51-b042-4befa043ef35" targetId="3ff4d940-d161-d7c8-5a52-69719e047206" linkType="profile">
-                  <modifiers/>
+                  <modifiers>
+                    <modifier type="append" field="5361766523232344415441232323" value="/4++" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+                      <conditions>
+                        <condition parentId="aae873a3-34e7-3ea1-bbc9-862b06b9fb9b" childId="f60502dd-617d-03e1-a946-b98f47b7197f" field="selections" type="equal to" value="1.0"/>
+                      </conditions>
+                      <conditionGroups/>
+                    </modifier>
+                  </modifiers>
                 </link>
               </links>
             </entry>
@@ -9295,7 +11150,7 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
                     <link id="60acc275-f5c9-9057-f875-6fb246cf40ea" targetId="3a9d6002-97df-b6db-4482-ea524e8001fc" linkType="entry group">
                       <modifiers/>
                     </link>
-                    <link id="82491e6b-b3b5-2b44-225c-0b533d7adaea" targetId="c1713f32-bd87-f78c-2f93-7726c145097f" linkType="entry group">
+                    <link id="82491e6b-b3b5-2b44-225c-0b533d7adaea" targetId="4f5974a9-f510-3847-0ce9-2288e3c771e2" linkType="entry group">
                       <modifiers/>
                     </link>
                   </links>
@@ -9354,6 +11209,9 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
           <modifiers/>
         </link>
         <link id="bdb5281c-346b-c4be-52c8-66feef87c9b0" targetId="5a03ff44-727c-e381-47ca-05f5a44d9c4a" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="ded1415b-d137-0cea-6c2e-80417d9d8b00" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -9433,7 +11291,7 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
     </entry>
     <entry id="bfd56338-fe82-4182-9e79-ca579c29e949" name="XV88 Broadside Team" points="0.0" categoryId="486561767920537570706f727423232344415441232323" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="103">
       <entries>
-        <entry id="ffbac98b-5f13-f187-4709-285e16e4c928" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+        <entry id="ffbac98b-5f13-f187-4709-285e16e4c928" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers>
@@ -9992,6 +11850,9 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
         <link id="ef192ca7-adb1-bdf5-132b-767afd06e57a" targetId="10eea28b-3f89-465a-cfb2-2c18c458b56e" linkType="rule">
           <modifiers/>
         </link>
+        <link id="416a829a-175f-95da-67c2-bacbde3abf3d" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="e3d3f911-3a39-7d8b-493f-da19501472d5" name="XV9 &apos;Hazard&apos; battlesuit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
@@ -10306,254 +12167,7 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
         <link id="11fc7afc-d980-7a4a-6ea8-2d32dc65995a" targetId="706ac166-91de-9abc-d577-efab540d20fc" linkType="rule">
           <modifiers/>
         </link>
-      </links>
-    </entry>
-    <entry id="4e04f581-a4d2-53ba-412a-d87a3933a4ad" name="XV107 R&apos;varna Battlesuit" points="260.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
-      <entries>
-        <entry id="8f13ad85-b733-df98-96a0-bf4de0b197cc" name="Shielded Missile Drone" points="25.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-          <entries>
-            <entry id="6c59fbd7-9b58-31f8-9002-0e2af4b525ec" name="Missile pod" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="d2a95674-662a-70bc-cc76-ec7dc7f00c95" targetId="428e5b42-e515-7ea7-fb87-13459a889761" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-            <entry id="aeba30d4-7b14-cc6e-6d62-4139de456878" name="Shield generator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="true" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="00584a96-9cef-7a09-6627-6362d593468a" targetId="f2d0aa1c-0a8f-1745-2ad5-db28bf7d7538" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers/>
-          <rules/>
-          <profiles/>
-          <links>
-            <link id="f8d44cff-4912-6e19-3dcd-2cc757fbe859" targetId="3cd32551-1477-84d2-1a37-82492a4fadc7" linkType="profile">
-              <modifiers/>
-            </link>
-          </links>
-        </entry>
-        <entry id="f0c019c5-de5a-994e-eb9e-ca8ca159a6e5" name="Pulse submunitions cannon" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <rules>
-            <rule id="dd89a5b6-9c3f-ff09-2452-7d0fcdf17c5a" name="Cluster Fire" hidden="false" page="0">
-              <description>Very Bulky models, as well as those with the Bike/Jetbike/Beasts/Cavalry type, suffer two hits each from this weapon at an increased Strength of 7. Extremely Bulky and Artillerr/Monstrous Creature/Vehicle (any type) models and specifically targeted buildings and fortifications suffer 3 hits each if they are hit by the weapon at an increased Strength of 8.</description>
-              <modifiers/>
-            </rule>
-          </rules>
-          <profiles>
-            <profile id="15ae8295-a444-4762-c66c-b7bc3d60ca6a" profileTypeId="576561706f6e23232344415441232323" name="Pulse submunitions cannon" hidden="false" page="0">
-              <characteristics>
-                <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="60&quot;"/>
-                <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="6"/>
-                <characteristic characteristicId="415023232344415441232323" name="AP" value="3"/>
-                <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Heavy 1, Large Blast, Cluster Fire(*)"/>
-                <characteristic characteristicId="506723232344415441232323" name="Pg"/>
-              </characteristics>
-              <modifiers/>
-            </profile>
-          </profiles>
-          <links/>
-        </entry>
-        <entry id="6acbddf6-b452-684a-282f-6c2a1badab06" name="Integrated shield generator" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <rules>
-            <rule id="c03485af-4a3a-4b57-a8df-ef15d6f2ff29" name="Integrated shield generator" hidden="false" page="0">
-              <description>This provides a 5+ Invulnerable save, which increases to a 4+ Invulnerable save against shooting attacks.</description>
-              <modifiers/>
-            </rule>
-          </rules>
-          <profiles/>
-          <links/>
-        </entry>
-        <entry id="42a51180-f8e5-342e-8df8-229f9fee56d5" name="XV107 battlesuit" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <rules>
-            <rule id="d0fab238-7f43-14ad-d7c5-937ee451c034" name="XV107 battlesuit" hidden="false" page="0">
-              <description>Includes multi-tracker, blacksun filters and a flechette discharger. In the case of flechette discharger models in contact with R&apos;varna base are subject to the attack.</description>
-              <modifiers/>
-            </rule>
-          </rules>
-          <profiles/>
-          <links/>
-        </entry>
-        <entry id="6cb4926b-0fbc-93e6-4574-e613fff4ce29" name="Nova Reactor - R&apos;varna class" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-          <entries/>
-          <entryGroups/>
-          <modifiers/>
-          <rules>
-            <rule id="ceecc5e5-5e5d-c51d-5053-73979a60bd33" name="Nova Reactor - R&apos;varna class" hidden="false" page="0">
-              <description>Declare an attempt to use the nova reactor at the start of the model&apos;s Movement phase. Roll a D6. On a result of 1-2, the R&apos;varna fails and suffers a wound (no saves of any kind may be taken). On a 3+, one of the following abilities may be used, its effects lasting until the start of the controlling player&apos;s next Movement phase.
-
-Nova shield
-Noth of the model&apos;s Invulnerable saves are increased to 3+ against both shooting and close combat attacks.
-
-Volley Fire
-The model&apos;s pulse submunition cannon can each be fired twice. Even though these weapons are fired twice, each still only counts as firing single weapon.
-
-Electromagnetic Shockwave
-All models within 6&quot; of the R&apos;varna base, enemy and friendly, suffer an immediate single Strength 2 AP 5 hit with the Haywire type.
-
-Flank Speed
-The models gains the Fleet special rule and when making a Run move, the controlling player rolls 2D6 to determine the distance moved instead of just one.</description>
-              <modifiers/>
-            </rule>
-          </rules>
-          <profiles/>
-          <links/>
-        </entry>
-      </entries>
-      <entryGroups>
-        <entryGroup id="b3b2676f-3213-9b9d-c18f-78c88bb1de5a" name="Support Systems - max 2" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
-          <entries>
-            <entry id="370c18c1-7dce-2af7-299f-9e158438d780" name="Advanced targeting system" points="3.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="544eac97-964c-b28e-6cb6-3a3af4949a10" targetId="02c91765-6330-2a40-f727-e7f6525780e9" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-            <entry id="aac79718-d056-ea8a-2db6-d15346ad8c36" name="Counterfire defence system" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="6310fcae-e86b-7c2d-8cca-c5c96dc87d2a" targetId="eb30f158-03f8-5093-af21-7ffea4b7d1a1" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-            <entry id="39f34fff-9240-4571-e597-fb871d4e020a" name="Early warning override" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="485b74eb-9553-719f-ea5f-a0372c9847af" targetId="9ea45941-5974-ce39-edcc-2b08753df675" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-            <entry id="0838e87f-f66e-e6e8-9c2f-9877a7b9d98f" name="Positional relay" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="166d6df4-ae36-8906-a00b-121a0d46dd8f" targetId="4399fd29-0e42-7362-a9bf-e1231412fe4e" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-            <entry id="31b8c0aa-6cb2-d0cd-7111-bb5b392444e1" name="Target lock" points="5.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="f69dcb1e-e9d6-38ca-efaa-1f1d7c4c71e1" targetId="b6466a4f-626b-798c-6e32-acee6a2cf16d" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-            <entry id="d851e2e4-430c-fedd-cdaf-a621619bd2e6" name="Drone controller" points="8.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="d6a189a8-e5c1-bad1-5798-bd429f9af226" targetId="fe930f18-98cc-e7e3-5ae0-71a2707d94f3" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-            <entry id="70dd331d-86eb-49f8-1aa2-a0adb7447a8b" name="Stimulant injector" points="35.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="55c69000-a797-8fc4-e7f8-4c1ebfd7b18c" targetId="bc5aa4ef-eb4c-21b7-1d88-514fb7654741" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-            <entry id="5071de0f-266f-8b5f-b4e3-1017df99e608" name="Velocity tracker" points="20.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
-              <entries/>
-              <entryGroups/>
-              <modifiers/>
-              <rules/>
-              <profiles/>
-              <links>
-                <link id="f238bd02-5e48-424b-d7ee-4c1cf1a45424" targetId="7ea009f0-d5ce-75c9-6932-17d8950d1d32" linkType="profile">
-                  <modifiers/>
-                </link>
-              </links>
-            </entry>
-          </entries>
-          <entryGroups/>
-          <modifiers/>
-          <links/>
-        </entryGroup>
-      </entryGroups>
-      <modifiers/>
-      <rules>
-        <rule id="1499c316-2c25-a029-3b34-e39a2c99ebba" name="FW Experimental Rules" hidden="false" page="0">
-          <description>http://www.forgeworld.co.uk/Downloads/Product/PDF/R/Rvarna.pdf</description>
-          <modifiers/>
-        </rule>
-      </rules>
-      <profiles>
-        <profile id="0a9275c9-eda3-e249-d8cf-9af4d88c1f8c" profileTypeId="4d6f6e7374726f757320437265617475726523232344415441232323" name="XV107 R&apos;varna Battlesuit" hidden="false" page="0">
-          <characteristics>
-            <characteristic characteristicId="575323232344415441232323" name="WS" value="2"/>
-            <characteristic characteristicId="425323232344415441232323" name="BS" value="3"/>
-            <characteristic characteristicId="5323232344415441232323" name="S" value="6"/>
-            <characteristic characteristicId="5423232344415441232323" name="T" value="7"/>
-            <characteristic characteristicId="5723232344415441232323" name="W" value="6"/>
-            <characteristic characteristicId="4923232344415441232323" name="I" value="2"/>
-            <characteristic characteristicId="4123232344415441232323" name="A" value="3"/>
-            <characteristic characteristicId="4c4423232344415441232323" name="LD" value="9"/>
-            <characteristic characteristicId="5361766523232344415441232323" name="Save" value="2+"/>
-            <characteristic characteristicId="506723232344415441232323" name="Pg"/>
-          </characteristics>
-          <modifiers/>
-        </profile>
-      </profiles>
-      <links>
-        <link id="6331f86e-6746-56a9-ef6e-68906b809e19" targetId="78ddae03-5da8-9e14-15b3-6a24882e5b8f" linkType="rule">
+        <link id="edd7afc4-4411-bd8b-6675-eaf3dd327711" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
           <modifiers/>
         </link>
       </links>
@@ -10903,6 +12517,45 @@ The models gains the Fleet special rule and when making a Run move, the controll
         </link>
       </links>
     </entryGroup>
+    <entryGroup id="4f5974a9-f510-3847-0ce9-2288e3c771e2" name="Signature Systems of the Farsight Enclaves" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+      <entries/>
+      <entryGroups>
+        <entryGroup id="635695bf-6b0d-f837-71a3-14d79513bb4b" name="Taros Sig Systems (questionably legal)" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <links>
+            <link id="fc84ca15-ab6b-d562-445f-fe121fdc2d59" targetId="20f713a8-3580-84e3-8ca9-b083792e8aba" linkType="entry">
+              <modifiers/>
+            </link>
+            <link id="fbd60818-1fc8-0985-abf7-f3955aecef07" targetId="4ffb97e5-20fb-5f7a-3d8d-6f1a90bc30a0" linkType="entry">
+              <modifiers/>
+            </link>
+          </links>
+        </entryGroup>
+      </entryGroups>
+      <modifiers/>
+      <links>
+        <link id="00858da9-5e4d-a635-0028-676b55c1f0f9" targetId="719e6f91-5ff6-1a2f-b2da-5436cc12544d" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="d1bb2be5-af8d-8726-81f8-340299d60e9c" targetId="87031305-ff97-0210-a58b-09ffecc52810" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="522bab00-f122-94d0-ccfd-7d5baa8c1f8d" targetId="50780c0b-6d07-4565-65b4-e582eb4f9a8f" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="645bc746-3e1e-5920-d528-eba5dd3687f4" targetId="42cc047e-10e2-f73e-f454-abf8adc04d7f" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="df39eb03-413c-9dbd-81cb-414330ac713d" targetId="145d3b87-4f9e-aea0-7bee-be3232efc037" linkType="entry">
+          <modifiers/>
+        </link>
+        <link id="88b50b70-df3b-fccb-97a6-9ce1010dc043" targetId="cfe1a311-0c4c-677c-fb68-a54143135222" linkType="entry">
+          <modifiers/>
+        </link>
+      </links>
+    </entryGroup>
     <entryGroup id="3a9d6002-97df-b6db-4482-ea524e8001fc" name="Support Systems" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false">
       <entries>
         <entry id="b265043c-89f5-87fa-9a59-a380dbabe166" name="Advanced targeting system" points="3.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
@@ -11173,6 +12826,10 @@ Killing Blade: Rending for that phase.</description>
       <description>Stealth Shas&apos;ui and Shas&apos;vre models in Shadowsun&apos;s unit have Sworn Protector.</description>
       <modifiers/>
     </rule>
+    <rule id="46531097-c355-0a68-5484-8f70872bf3ba" name="Earth Caste Pilot Array" hidden="false" book="Farsight Enclaves" page="91">
+      <description>Models with battlesuits only. The model re-rolls all rolls of 1 To Hit in the Shooting phase, and may re-roll the dice when using a Nova Reactor. However, their Weapon Skill is 1.</description>
+      <modifiers/>
+    </rule>
     <rule id="61b4c59b-30fc-58f7-1753-e0e5ef27343e" name="Eaters of the Dead" hidden="false" book="IA 3 SE: Taros Campaign" page="170">
       <description>A Kroot Knarloc Rider Herd will never make a Sweeping Advance move after defeating an enemy unit in close combat Instead, they will always Consolidate as per the normal rules for such moves.</description>
       <modifiers/>
@@ -11207,6 +12864,10 @@ Killing Blade: Rending for that phase.</description>
       <modifiers/>
     </rule>
     <rule id="e072383f-af9b-dd0f-c13f-1db67b060808" name="Fleet" hidden="false" book="Warhammer 40k rulebook" page="35">
+      <modifiers/>
+    </rule>
+    <rule id="d98e20e5-1eaa-bf83-2336-31edefc5a327" name="Fusion Blades" hidden="false" book="Farsight Enclaves" page="88">
+      <description>Commander with a twin-linked fusion blaster only. Replace one twin-linked fusion blaster&apos;s profile with Fusion Blades profiles.</description>
       <modifiers/>
     </rule>
     <rule id="7e672c65-da19-f9f8-eb12-7a0fabc5e3a3" name="Great Invocation" hidden="false" book="Codex: Tau Empire" page="60">
@@ -11281,11 +12942,19 @@ Killing Blade: Rending for that phase.</description>
     <rule id="d4be35b0-1eff-7cba-1851-b4aa3d28ae89" name="Preferred Enemy" hidden="false" book="Warhammer 40k rulebook" page="40">
       <modifiers/>
     </rule>
+    <rule id="0d1767ba-6f50-97ba-62c7-e907f1248826" name="Preferred Enemy (Orks) (CC only)" hidden="false" book="Warhammer 40k rulebook" page="40">
+      <description>Only when making close combat attacks.</description>
+      <modifiers/>
+    </rule>
     <rule id="b77f8ebb-071a-294b-395f-1512a0eb361f" name="Price of Failure" hidden="false" book="Codex: Tau Empire" page="33">
       <description>If a friendly Ethereal is killed then every unit of Tau on the tabletop (not Kroot, Vespids or Drones) must take a Morale check at the start of their next turn if they are not in close combat or falling back. In addition, every Tau unit that takes the test will benefit from the Preferred Enemy universal special rule, with the enemy as their preferred enemy. This applies whether the Morale test is passed or failed, and lasts until the end of the game.</description>
       <modifiers/>
     </rule>
     <rule id="b20ebf11-a2eb-6694-e80c-39ae279fc9a3" name="Scouts" hidden="false" book="Warhammer 40k rulebook" page="41">
+      <modifiers/>
+    </rule>
+    <rule id="e61b5338-3ca7-8388-154f-eae148f6f9a3" name="Seismic Fibrillator Node" hidden="false" book="Farsight Enclaves" page="90">
+      <description>One use only. A model with the Seismic Fibrillator Node may use it at the beginning of any turn. Roll a D6. On the roll of a 1, there is no effect. On a 2+, all open ground within 36&quot; is treated as difficult terrain, and all difficult terrain is treated as dangerous terrain. Roll a D6 at the end of each turn in which the Node&apos;s effects are in play. On a 1-4, the Node&apos;s effects ceade. On a 5+, the Node&apos;s effects continue for the duration of the next turn.</description>
       <modifiers/>
     </rule>
     <rule id="9f24357e-ce45-d33d-4a31-d6bc64b8f083" name="Shrouded" hidden="false" book="Warhammer 40k rulebook" page="41">
@@ -11342,7 +13011,19 @@ Killing Blade: Rending for that phase.</description>
       <description>The Shas&apos;el or Shas&apos;o leading the force benefits greatly from the upgraded communications and sensor suite of his command tank. Whilst the command tank is still mobile, the Tau player gains D3+1 Markerlight &apos;hit markers&apos; per turn. These are placed at the start of the Tau shooting phase on any enemy unit within line of sight of the command tank and each marker counts as a Markerlight hit (see the Wargear section of Codex: Tau Empire).</description>
       <modifiers/>
     </rule>
+    <rule id="b66a2f7c-bf25-7911-42c6-91a4f37c2828" name="Talisman of Arthas Moloch" hidden="false" book="Farsight Enclaves" page="91">
+      <description>The Talisman of Arthas Moloch confers a 5+ invulnerable save. In addition, the bearer and all friendly units within 12&quot; roll four D6 for their Deny the Witch rolls instead of one, taking the highest result.</description>
+      <modifiers/>
+    </rule>
     <rule id="13fd870c-6856-b7d4-aba7-2a50e2c1a634" name="Tank Hunters" hidden="false" book="Warhammer 40k rulebook" page="43">
+      <modifiers/>
+    </rule>
+    <rule id="e1c66fcd-270d-2c26-9763-95b42760c17c" name="The Mirrorcodex" hidden="false" book="Farsight Enclaves" page="90">
+      <description>If a model in your army has the Mirrorcodex, you add 1 to yuor dice roll when Seizing the Initiative. Furthermore, if a model in your army is bearing the Mirrorcodex, roll a D6 at the beginning of each of your turns and consult the table below. The effects listed affect the bearer and all friendly units within 6&quot;, and last until the end of the turn.
+1-3 None.
+4 Preferred Enemy (Space Marines)
+4 Preferred Enemy (Space Marines and Imperial Guard)
+6 Preferred Enemy (Everyone!)</description>
       <modifiers/>
     </rule>
     <rule id="8d1988b7-e770-b275-c649-c353af4bc581" name="The Paradox of Duality" hidden="false" book="Codex: Tau Empire" page="42">
@@ -11362,6 +13043,10 @@ Killing Blade: Rending for that phase.</description>
     </rule>
     <rule id="97eaddfb-c2f2-dd6a-fa46-4fe5bef24144" name="Volley Fire" hidden="false" book="Codex: Tau Empire" page="36">
       <description>If this model, and his unit, do not move in the Movement phase, their pulse rifles and carbines fire an additional shot in the Shooting phase.</description>
+      <modifiers/>
+    </rule>
+    <rule id="ef5e7026-b8fa-8e47-4138-6ecdc8f907db" name="Warscaper Drone" hidden="false" book="Farsight Enclaves" page="90">
+      <description>Nominate a drone purchased by the character from the Drones list - this is a Warscaper Drone in addition to its usual type. All models in the same unit as the Warscaper Drone have the Move Through Cover, Outflank and Acute Senses special rules. Furthermore, any enemy unit that is both outside of its deployment zone and within 12&quot; of a Warscaper Drone treats difficult terrain as dangerous terrain.</description>
       <modifiers/>
     </rule>
   </sharedRules>
@@ -11940,6 +13625,26 @@ Killing Blade: Rending for that phase.</description>
       </characteristics>
       <modifiers/>
     </profile>
+    <profile id="692aa8f3-3c08-5933-351e-a21ab4eaed54" profileTypeId="576561706f6e23232344415441232323" name="Fusion Blades" hidden="false" book="Farsight Enclaves" page="90">
+      <characteristics>
+        <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="18&quot;"/>
+        <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="8"/>
+        <characteristic characteristicId="415023232344415441232323" name="AP" value="1"/>
+        <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Assault 1, Melta, Twin-linked"/>
+        <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="b36e70bd-6fbf-20d1-02c5-8d24b4790630" profileTypeId="576561706f6e23232344415441232323" name="Fusion Blades (melee)" hidden="false" book="Farsight Enclaves" page="90">
+      <characteristics>
+        <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="-"/>
+        <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="8"/>
+        <characteristic characteristicId="415023232344415441232323" name="AP" value="1"/>
+        <characteristic characteristicId="5479706523232344415441232323" name="Type" value="Melee, Armourbane, Blind, Power Outage"/>
+        <characteristic characteristicId="506723232344415441232323" name="Pg"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
     <profile id="be4d6cdc-18e5-ab45-24b7-e15ed5ceddb9" profileTypeId="576561706f6e23232344415441232323" name="Fusion blaster" hidden="false" book="Codex: Tau Empire" page="65">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="18&quot;"/>
@@ -11950,7 +13655,7 @@ Killing Blade: Rending for that phase.</description>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="c25ff470-b2a0-977c-7fc9-9ba0cdb81e20" profileTypeId="576561706f6e23232344415441232323" name="Fusion cannon" hidden="false" book="IA 3 SE: Taros Campaign" page="198">
+    <profile id="e8ff6876-764a-b76e-b843-73fabb56543e" profileTypeId="576561706f6e23232344415441232323" name="Fusion cannon" hidden="false" book="IA 3 SE: Taros Campaign" page="198">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="24&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="8"/>
@@ -12666,7 +14371,7 @@ Killing Blade: Rending for that phase.</description>
       </characteristics>
       <modifiers/>
     </profile>
-    <profile id="48caf92c-a5f5-89de-37ea-65489e2c5904" profileTypeId="576561706f6e23232344415441232323" name="Plasma cannon" hidden="false" book="IA 3 SE: Taros Campaign" page="198">
+    <profile id="cf5c96b9-2fe1-7515-dd29-174022f88af8" profileTypeId="576561706f6e23232344415441232323" name="Plasma cannon" hidden="false" book="IA 3 SE: Taros Campaign" page="198">
       <characteristics>
         <characteristic characteristicId="52616e676523232344415441232323" name="Range" value="24&quot;"/>
         <characteristic characteristicId="537472656e67746823232344415441232323" name="Strength" value="7"/>
@@ -12697,6 +14402,13 @@ Killing Blade: Rending for that phase.</description>
       <characteristics>
         <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Whilst the bearer is within 6&quot; of a board edge, any Outflanking friendly Tau Empire unit can choose to move on from that board edge."/>
         <characteristic characteristicId="506723232344415441232323" name="Pg" value=""/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="ac49897c-23fd-8b19-1cf6-d233afb94db1" profileTypeId="57617267656172204974656d23232344415441232323" name="Power Outage" hidden="false" book="Farsight Enclaves" page="90">
+      <characteristics>
+        <characteristic characteristicId="4465736372697074696f6e23232344415441232323" name="Description" value="Roll a D6 at the end of every Assault phase in which the Fusion Blades used their melee profile. On the roll of a 1, neither the Shooting nor Melee profile may be used for the rest of the game."/>
+        <characteristic characteristicId="506723232344415441232323" name="Pg"/>
       </characteristics>
       <modifiers/>
     </profile>
