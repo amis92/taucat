@@ -4078,6 +4078,9 @@ I play Tau and love all the Forge World models, contact me if something would ne
     <link id="80d0c7f6-4deb-80d3-199e-0e2fcfc6ebf0" targetId="cf960e9c-eb7f-67e6-569a-56e604f0ce23" linkType="entry" categoryId="(No Category)">
       <modifiers/>
     </link>
+    <link id="9ed9d2c2-c5c5-9853-8c2e-dfbe432e00e9" targetId="4e04f581-a4d2-53ba-412a-d87a3933a4ad" linkType="entry" categoryId="486561767920537570706f727423232344415441232323">
+      <modifiers/>
+    </link>
   </links>
   <sharedEntries>
     <entry id="482a8694-d2f6-06ee-3d8d-822c3266f86d" name="Airbursting fragmentation projector" points="15.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="1" collective="false" book="" page="0">
