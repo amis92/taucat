@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="3c888d8a-9391-6ae0-9af3-c2d7587098c2" revision="17" gameSystemId="3d1a4963-0629-4025-a90b-76ab3d63c5c5" gameSystemRevision="1" battleScribeVersion="1.13b" name="Tau Empire 6th Ed (2013)" authorName="Amadeusz Sadowski" authorContact="amis.tau.92@gmail.com" authorUrl="http://taucatalogue.blogspot.com/" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="3c888d8a-9391-6ae0-9af3-c2d7587098c2" revision="18" gameSystemId="3d1a4963-0629-4025-a90b-76ab3d63c5c5" gameSystemRevision="1" battleScribeVersion="1.13b" name="Tau Empire 6th Ed (2013)" authorName="Amadeusz Sadowski" authorContact="amis.tau.92@gmail.com" authorUrl="http://taucatalogue.blogspot.com/" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entries>
     <entry id="fb367433-58d4-8e73-798d-a739f074020a" name="Air Superiority Wing" points="0.0" categoryId="eead7129-69d4-bd07-8f3e-fb184f609e09" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Apocalypse" page="0">
       <entries>
@@ -4193,6 +4193,18 @@ I play Tau and love all the Forge World models, contact me if something would ne
       <modifiers/>
     </link>
     <link id="9ed9d2c2-c5c5-9853-8c2e-dfbe432e00e9" targetId="4e04f581-a4d2-53ba-412a-d87a3933a4ad" linkType="entry" categoryId="486561767920537570706f727423232344415441232323">
+      <modifiers/>
+    </link>
+    <link id="b16d90a8-e401-943e-cdec-940b3432155b" targetId="c5ea0e80-60a6-4f16-8810-de0b177c4111" linkType="entry" categoryId="caf7ecd5-8e33-4207-90d4-2ddf9d9c716f">
+      <modifiers/>
+    </link>
+    <link id="580c6974-b5ec-fb2c-b776-e113e52356cb" targetId="4141bbe1-09fc-4b7c-9ded-6c9de6dd18d4" linkType="entry" categoryId="caf7ecd5-8e33-4207-90d4-2ddf9d9c716f">
+      <modifiers/>
+    </link>
+    <link id="79bea0be-0391-c999-9fdd-c88d52e58b2e" targetId="02db9678-0644-4305-bdb8-39c875d52a6d" linkType="entry" categoryId="caf7ecd5-8e33-4207-90d4-2ddf9d9c716f">
+      <modifiers/>
+    </link>
+    <link id="8ea2f1dd-2666-3083-7d0e-8d5306d5a63f" targetId="3367a5f7-742d-419a-ba07-fa09356eb836" linkType="entry" categoryId="caf7ecd5-8e33-4207-90d4-2ddf9d9c716f">
       <modifiers/>
     </link>
   </links>
