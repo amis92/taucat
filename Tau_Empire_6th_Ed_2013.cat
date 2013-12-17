@@ -9010,7 +9010,7 @@ To deploy a squad of Gun Drones, nominate any point over which the Tiger Shark m
         </link>
       </links>
     </entry>
-    <entry id="4e04f581-a4d2-53ba-412a-d87a3933a4ad" name="XV107 R&apos;varna Battlesuit" points="260.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
+    <entry id="4e04f581-a4d2-53ba-412a-d87a3933a4ad" name="XV107 R&apos;varna Battlesuit [FW]" points="260.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="" page="0">
       <entries>
         <entry id="8f13ad85-b733-df98-96a0-bf4de0b197cc" name="Shielded Missile Drone" points="25.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
           <entries>
