@@ -1603,6 +1603,9 @@
         <link id="34d30b9c-9f2c-297d-f32d-ecd54c9c24f4" targetId="cecabc47-5a5d-64d4-6e99-5755d4907be2" linkType="entry">
           <modifiers/>
         </link>
+        <link id="4ae11e3c-dd89-ca13-aa97-dacd398e434b" targetId="13fd870c-6856-b7d4-aba7-2a50e2c1a634" linkType="rule">
+          <modifiers/>
+        </link>
       </links>
     </entry>
     <entry id="06d06089-6d2f-ef60-3bc3-bdd12d41dcdf" name="Kroot Hunting Pack" points="0.0" categoryId="eead7129-69d4-bd07-8f3e-fb184f609e09" type="unit" minSelections="0" maxSelections="-1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Apocalypse" page="0">
