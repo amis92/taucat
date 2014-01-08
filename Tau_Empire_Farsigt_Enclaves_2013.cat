@@ -1028,7 +1028,7 @@
       <entries>
         <entry id="cd4ac332-e1e7-4d55-8e5c-4ddcbb4bd2a5" name="XV88 Broadside Team" points="0.0" categoryId="486561767920537570706f727423232344415441232323" type="unit" minSelections="2" maxSelections="2" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" book="Codex: Tau Empire" page="103">
           <entries>
-            <entry id="156efa5b-90fe-cb0a-8e90-989661c50134" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
+            <entry id="156efa5b-90fe-cb0a-8e90-989661c50134" name="Bonding Knife Ritual" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minPoints="0.0" maxPoints="-1.0" minInRoster="0" maxInRoster="-1" collective="false" page="0">
               <entries/>
               <entryGroups/>
               <modifiers>
@@ -1585,6 +1585,9 @@
               <modifiers/>
             </link>
             <link id="4ff46e8a-49fd-a7cd-3b17-9764123ee7b7" targetId="10eea28b-3f89-465a-cfb2-2c18c458b56e" linkType="rule">
+              <modifiers/>
+            </link>
+            <link id="b0dd3b79-1c78-6aa7-9c1d-cde5890a5e5c" targetId="0d1767ba-6f50-97ba-62c7-e907f1248826" linkType="rule">
               <modifiers/>
             </link>
           </links>
