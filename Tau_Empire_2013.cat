@@ -1595,7 +1595,16 @@
       <profiles/>
       <links>
         <link id="34d30b9c-9f2c-297d-f32d-ecd54c9c24f4" targetId="cecabc47-5a5d-64d4-6e99-5755d4907be2" linkType="entry">
-          <modifiers/>
+          <modifiers>
+            <modifier type="set" field="minSelections" value="1.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+              <conditions/>
+              <conditionGroups/>
+            </modifier>
+            <modifier type="set" field="maxSelections" value="1.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+              <conditions/>
+              <conditionGroups/>
+            </modifier>
+          </modifiers>
         </link>
         <link id="4ae11e3c-dd89-ca13-aa97-dacd398e434b" targetId="13fd870c-6856-b7d4-aba7-2a50e2c1a634" linkType="rule">
           <modifiers/>
